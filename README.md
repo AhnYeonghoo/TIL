@@ -54,6 +54,13 @@
   - [Short Object](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/5.Object/3.short.js)
   - [Method](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/5.Object/4.method.js)
   - [Contructor](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/5.Object/5.create.js)
+  - [Basic Class](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/6.Class/1.basicClass.js)
+  - [Static Property](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/6.Class/2.static.js)
+  - [Field Area](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/6.Class/3.field.js)
+  - [Getter && Setter](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/6.Class/4.getter.js)
+  - [Class Extends](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/6.Class/5.extends.js)
+  - [Quiz1](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/6.Class/6.quiz.js)
+  - [Quiz2](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/6.Class/7.quiz2.js)
 
 <br>
 
