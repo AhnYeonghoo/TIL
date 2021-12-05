@@ -105,6 +105,12 @@
   - [Async Quiz](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/13.Promise/8.async-quiz.js)
   - [JavaScript Object Notation](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/13.Promise/9.json.js)
   - [Networking](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/13.Promise/index.html)
+  - [Scope Concept](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/14.Scope/1.scope.js)
+  - [Scope Quiz](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/14.Scope/2.scope-quiz.js)
+  - [Garbage Collector](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/14.Scope/3.garbage-collector.js)
+  - [Hoisting](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/14.Scope/4.hoisting.js)
+  - [Legecy Var keyword](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/14.Scope/5.var.js)
+  - [React Strict Mode](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/14.Scope/6.strict.js)
 
     <br>
 
