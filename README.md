@@ -121,7 +121,7 @@
   - [Why Closure?](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/16.Closure/2.why-closure.js)
   - [Closure Quiz](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/16.Closure/3.quiz.js)
 
-    <br>
+<br>
 
 - Algorithm
 
