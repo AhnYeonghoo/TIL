@@ -111,6 +111,12 @@
   - [Hoisting](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/14.Scope/4.hoisting.js)
   - [Legecy Var keyword](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/14.Scope/5.var.js)
   - [React Strict Mode](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/14.Scope/6.strict.js)
+  - [Property Descriptor](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/15.Prototype/1.property.js)
+  - [Object Freeze](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/15.Prototype/2.freeze.js)
+  - [Prototype Concept](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/15.Prototype/3.prototype.js)
+  - [Prototype Based Inheritance](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/15.Prototype/4.inheritance.js)
+  - [Multiple Inheritance](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/15.Prototype/5.mixin.js)
+  - [Class Inheritance Quiz](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/15.Prototype/6.quiz.js)
 
     <br>
 
