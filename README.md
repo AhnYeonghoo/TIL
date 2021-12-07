@@ -117,6 +117,9 @@
   - [Prototype Based Inheritance](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/15.Prototype/4.inheritance.js)
   - [Multiple Inheritance](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/15.Prototype/5.mixin.js)
   - [Class Inheritance Quiz](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/15.Prototype/6.quiz.js)
+  - [Closure Concept](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/16.Closure/1.closure.js)
+  - [Why Closure?](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/16.Closure/2.why-closure.js)
+  - [Closure Quiz](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/16.Closure/3.quiz.js)
 
     <br>
 
