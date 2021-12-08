@@ -120,6 +120,11 @@
   - [Closure Concept](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/16.Closure/1.closure.js)
   - [Why Closure?](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/16.Closure/2.why-closure.js)
   - [Closure Quiz](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/16.Closure/3.quiz.js)
+  - [This Concept](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/17.This/1.this.js)
+  - [Binding](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/17.This/2.binding.js)
+  - [Static Binding](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/17.This/3.binding-solve.js)
+  - [Arrow Function Concept](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/17.This/4.arrow.js)
+  - [Babel Setup Practice](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/18.Babel/index.js)
 
 <br>
 
