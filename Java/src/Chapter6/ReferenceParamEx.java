@@ -27,6 +27,7 @@ public class ReferenceParamEx {
         Data2 d2 = copy(d);
         System.out.println(d.x);
         System.out.println(d2.x);
+        System.out.println();
     }
 
     static void printArr(int[] arr) {
