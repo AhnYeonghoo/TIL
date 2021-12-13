@@ -77,6 +77,12 @@
   - [Higher-Order Function](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/8.Array/6.hof.js)
   - [HOF Quiz](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/8.Array/7.quiz.js)
   - [Iterable Concept](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/9.Iterable/1.iterable.js)
+  - [Iterable Quiz](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/9.Iterable/2.iterable-quiz.js)
+  - [Iterable Function Quiz ](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/9.Iterable/3.iterable-quiz-function.js)
+  - [Generator](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/9.Iterable/4.generator.js)
+  - [Spread Operators](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/9.Iterable/5.spread.js)
+  - [Destructure Assignment](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/9.Iterable/6.destructure.js)
+  - [Destructure Assignment Quiz](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/9.Iterable/7.quiz.js)
 
 <br>
 
