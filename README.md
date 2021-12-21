@@ -49,6 +49,11 @@
   - [Callback Function](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/4.Function/6.callback.js)
   - [Function Quiz](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/4.Function/7.quiz.js)
   - [Function Immutability](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/4.Function/8.immutability.js)
+  - [Basic Object](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/5.Object/1.object.js)
+  - [Dynamic Allocation](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/5.Object/2.compute.js)
+  - [Short Object](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/5.Object/3.short.js)
+  - [Method](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/5.Object/4.method.js)
+  - [Contructor](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/5.Object/5.create.js)
 
 <br>
 
