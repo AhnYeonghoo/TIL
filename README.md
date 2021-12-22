@@ -136,11 +136,6 @@
   - [countCoin](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/countCoin.kt)
   - [reverseStringPrint](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/reversePrint.kt)
 
-<br>
-
-- Kotlin In Action 정리
-  - [1장~2장(문자열 템플릿까지만)](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/kotlinInAction.kt)
-
 <br >
 <br >
 
