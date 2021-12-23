@@ -61,6 +61,11 @@
   - [Class Extends](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/6.Class/5.extends.js)
   - [Quiz1](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/6.Class/6.quiz.js)
   - [Quiz2](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/6.Class/7.quiz2.js)
+  - [Wrapper Object](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/7.BuiltInObject/1.wrapper.js)
+  - [Global Object](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/7.BuiltInObject/2.global.js)
+  - [Boolean Object](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/7.BuiltInObject/3.boolean.js)
+  - [Number Object](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/7.BuiltInObject/4.number.js)
+  - [Math Object](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/7.BuiltInObject/5.math.js)
 
 <br>
 
