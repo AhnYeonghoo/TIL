@@ -66,6 +66,9 @@
   - [Boolean Object](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/7.BuiltInObject/3.boolean.js)
   - [Number Object](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/7.BuiltInObject/4.number.js)
   - [Math Object](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/7.BuiltInObject/5.math.js)
+  - [String Object](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/7.BuiltInObject/6.string.js)
+  - [Date Object](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/7.BuiltInObject/7.date.js)
+  - [BIO quiz](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/7.BuiltInObject/8.quiz.js)
 
 <br>
 
