@@ -69,6 +69,11 @@
   - [String Object](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/7.BuiltInObject/6.string.js)
   - [Date Object](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/7.BuiltInObject/7.date.js)
   - [BIO quiz](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/7.BuiltInObject/8.quiz.js)
+  - [Basic Array](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/8.Array/1.array.js)
+  - [Array Add & Remove](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/8.Array/2.add.js)
+  - [ArrayMethod](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/8.Array/3.array-method.js)
+  - [Shallow Copy Concept](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/8.Array/4.shallow.js)
+  - [Array Quiz](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/8.Array/5.quiz.js)
 
 <br>
 
