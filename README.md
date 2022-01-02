@@ -34,6 +34,10 @@
   - [Relational](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/2.Operator/2_6.relational.js)
   - [Priority Operations](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/2.Operator/2_7.priority.js)
   - [Equality Operations](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/2.Operator/2_8.equality.js)
+  - [If Statement](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/3.Condition/3_1.if.js)
+  - [Ternary](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/3.Condition/3_2.ternary.js)
+  - [Quiz!](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/3.Condition/3_3.quiz.js)
+  - [Switch](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/3.Condition/3_4.switch.js)
 
 <br>
 
