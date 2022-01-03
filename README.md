@@ -38,6 +38,8 @@
   - [Ternary](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/3.Condition/3_2.ternary.js)
   - [Quiz!](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/3.Condition/3_3.quiz.js)
   - [Switch](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/3.Condition/3_4.switch.js)
+  - [For](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/3.Condition/3_5.for.js)
+  - [If Statement](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/3.Condition/3_1.if.js)
 
 <br>
 
