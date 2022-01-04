@@ -39,7 +39,8 @@
   - [Quiz!](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/3.Condition/3_3.quiz.js)
   - [Switch](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/3.Condition/3_4.switch.js)
   - [For](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/3.Condition/3_5.for.js)
-  - [If Statement](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/3.Condition/3_1.if.js)
+  - [While](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/3.Condition/3_6.while.js)
+  - [If Statement](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/3.Condition/3_7.logical.js)
 
 <br>
 
