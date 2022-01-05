@@ -40,7 +40,7 @@
   - [Switch](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/3.Condition/3_4.switch.js)
   - [For](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/3.Condition/3_5.for.js)
   - [While](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/3.Condition/3_6.while.js)
-  - [If Statement](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/3.Condition/3_7.logical.js)
+  - [Logical Operators](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/3.Condition/3_7.logical.js)
 
 <br>
 
