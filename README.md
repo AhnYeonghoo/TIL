@@ -32,6 +32,7 @@
   - [Assignment](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/2_4.assignment.js)
   - [Increment&Decrement](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/2_5.increment.js)
   - [Relational](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/2_6.relational.js)
+  - [Priority Operations](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/2_7.priority.js)
 
 <br>
 
