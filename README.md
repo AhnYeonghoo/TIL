@@ -33,6 +33,7 @@
   - [Increment&Decrement](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/2_5.increment.js)
   - [Relational](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/2_6.relational.js)
   - [Priority Operations](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/2_7.priority.js)
+  - [Equality Operations](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/2_8.equality.js)
 
 <br>
 
