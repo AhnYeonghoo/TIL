@@ -41,6 +41,8 @@
 
   - Progrmmers
 
+    - [신고 결과 받기](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/%EC%8B%A0%EA%B3%A0-%EA%B2%B0%EA%B3%BC-%EB%B0%9B%EA%B8%B0.js)
+
   <br>
 
   - BaekjoonOnlineJudge
