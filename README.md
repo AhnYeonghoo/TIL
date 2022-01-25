@@ -27,6 +27,7 @@
   - [Const&&let](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/9.const.js)
   - [TypeofFuc](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/10.typeof.js)
   - [Expression](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/2_1.expression.js)
+  - [Arithmetic](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/2_2.arithmetic.js)
 
 <br>
 
