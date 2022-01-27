@@ -29,6 +29,7 @@
   - [Expression](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/2_1.expression.js)
   - [Arithmetic](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/2_2.arithmetic.js)
   - [Unary](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/2_3.unary.js)
+  - [Assignment](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/2_4.assignment.js)
 
 <br>
 
