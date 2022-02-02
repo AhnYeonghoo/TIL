@@ -121,7 +121,6 @@
   - [homework_week6](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/homework06)
   - [homework_week9](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/homework09)
   - [final_homework](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/final_homework)
-  -
 
 <br>
 
