@@ -22,6 +22,7 @@
   - [StringType](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/4.string.js)
   - [BooleanType](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/5.boolean.js)
   - [EmptyType](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/6.empty.js)
+  - [ObjectType](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/7.object.js)
 
 <br>
 
