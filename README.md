@@ -163,9 +163,11 @@
 
 # Javascript
 
-- [async, defer](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/ch2.js)
-- [variable](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/ch3.js)
-- [DrawPaintWebSiteGame](https://github.com/AhnYeonghoo/TIL/tree/main/PaintJS)
+- Reference
+
+  - [async, defer](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/ch2.js)
+  - [variable](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/ch3.js)
+  - [DrawPaintWebSiteGame](https://github.com/AhnYeonghoo/TIL/tree/main/PaintJS)
 
 <br>
 
@@ -175,6 +177,7 @@
   - [Naming](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/2.naming.js)
   - [NumberType](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/3.number.js)
   - [StringType](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/4.string.js)
+  - [BooleanType](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/5.boolean.js)
 
 <br>
 <br>
