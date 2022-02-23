@@ -174,6 +174,7 @@
   - [Variable](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/1.variable.js)
   - [Naming](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/2.naming.js)
   - [NumberType](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/3.number.js)
+  - [StringType](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/4.string.js)
 
 <br>
 <br>
