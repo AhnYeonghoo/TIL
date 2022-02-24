@@ -172,8 +172,8 @@
 - ES6+ Lecture
 
   - [Variable](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/1.variable.js)
-  - [numberType]()
-  - [stringType]()
+  - [Naming](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/2.naming.js)
+  - [NumberType](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/3.number.js)
 
 <br>
 <br>
