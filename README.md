@@ -168,6 +168,14 @@
 - [DrawPaintWebSiteGame](https://github.com/AhnYeonghoo/TIL/tree/main/PaintJS)
 
 <br>
+
+- ES6+ Lecture
+
+  - [Variable](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/1.variable.js)
+  - [numberType]()
+  - [stringType]()
+
+<br>
 <br>
 
 <hr/>
