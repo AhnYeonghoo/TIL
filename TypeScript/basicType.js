@@ -1,0 +1,12 @@
+var age = 30;
+var isAdult = true;
+var a = [1, 2, 3];
+var a2 = [1, 2, 3];
+var week1 = ["mon", "tue", "wed"];
+var week2 = ["mon", "tue", "wed"];
+console.log(age);
+console.log(isAdult);
+console.log(age);
+console.log(age);
+console.log(age);
+console.log(age);

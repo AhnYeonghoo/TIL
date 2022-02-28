@@ -16,6 +16,8 @@ myarray.h
 .user
 .idea/
 .vscode/
-
-
+node_modules/
+tsconfig.json
+package-lock.json
+tsconfig.json
 
