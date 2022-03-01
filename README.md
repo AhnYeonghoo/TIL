@@ -46,6 +46,7 @@
   - [E.g: emailSearch](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/emailSearch.kt)
   - [E.g: isEven?](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/trueANdFalse.kt)
   - [Kotlin org Example1](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/org1.kt)
+  - [Kotlin org Example2](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/org2.kt)
   - [dataBinding, Log](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/MainActivity.kt)
 
   <br>
