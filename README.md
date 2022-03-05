@@ -1,5 +1,17 @@
-# TIL
+# Today I Learn
 
-Today I Learn.. 기존 TIL Repo 다 날려서 새로 만든 Repo..
+<hr />
 
-...
+# EDA
+
+- [airline_satisfaction_prediction]()
+- [BERT_naver_movie_classification]()
+- [NLP_prepare]()
+- [NLP_Tweet_Emotion_Recognition]()
+- [text_preprocessing]()
+
+<hr />
+
+# ML&DL
+
+<hr />
