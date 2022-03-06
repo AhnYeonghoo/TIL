@@ -14,6 +14,6 @@
 
 # ML&DL
 
-- [neural_network_training]()
+- [neural_network_training](https://github.com/AhnYeonghoo/TIL/blob/main/ML%26DL/nn_traning.ipynb)
 
 <hr />
