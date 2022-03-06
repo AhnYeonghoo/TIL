@@ -1,0 +1,50 @@
+# 일반 영단어 day1
+
+- circumstance: 한경, 상항
+- stable: 안정적인, 안정된
+- dense: 짙은, 밀집한
+- landscape: 풍경, 지형
+- trace: 추적하다, 찾아내다. 자취, 흔적
+- command: 지휘하다, 명령하다. 지휘, 명령
+- federal: 연방의, 연방 정부의
+- philosophy: 철학
+- sphere: 구, 영역
+- attack: 공격하다, 폭행하다. 공격, 폭행
+- destroy: 파괴하다
+- destruction: 파괴
+- indeed: 정말로
+- peer: 동료, 또래. 응시하다
+- strict: 엄격한, 엄한
+- athlete: 운동선수
+- athletic: 운동 경기의
+- dynamic: 역동적인, 활동적인. 원동력
+- interest: 흥미, 관심, 이자. ~의 관심을 끌다
+- population: 인구, 주민
+- stream: 시내, 개울. 끊임없이 계속되다.
+- billion: 10억
+- ethical: 윤리적인, 도덕적인
+- iron: 철, 쇠. 다리미질을 하다
+- organize: 조직하다, 준비하다
+- organization: 조직, 기관
+- scholar: 학자
+- utillity: 공익설비, 유용성
+- utillize: 이용하다, 활용하다
+- complement: 보완하다. 보완물
+- fraction: 부분, 조금, 분수
+- mild: 부드러운, 온화한
+- relationship: 관계, 관련
+- sweat: 땀. 땀을 흘리다
+- bare: 벌거벗은, 있는 그대로의. 드러내다
+- excess: 과잉, 초과
+- excessive: 과도한, 지나친
+- let: 허락하다
+- pride: 자부심, 자랑스러움
+- proud: 자랑스러운
+- system: 시스템, 제도
+- bore: 지루하게 만들다
+- boredom: 지루함
+- horror: 공포, 경악
+- pond: 연못, 못
+- until: ~때 까지. -까지
+- half: 절반
+- riot: 폭동
