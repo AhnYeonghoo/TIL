@@ -17,3 +17,14 @@
 - [neural_network_training](https://github.com/AhnYeonghoo/TIL/blob/main/ML%26DL/nn_traning.ipynb)
 
 <hr />
+
+# Lab
+
+- [nn_train](https://github.com/AhnYeonghoo/TIL/blob/main/Lab/nn_train.md)
+
+<hr />
+
+# English
+
+- [day1](https://github.com/AhnYeonghoo/TIL/blob/main/English/day1.md)
+- [day2](https://github.com/AhnYeonghoo/TIL/blob/main/English/day2.md)
