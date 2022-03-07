@@ -15,6 +15,8 @@
 # ML&DL
 
 - [neural_network_training](https://github.com/AhnYeonghoo/TIL/blob/main/ML%26DL/nn_traning.ipynb)
+- [overfitting](https://github.com/AhnYeonghoo/TIL/blob/main/ML%26DL/overfitting.ipynb)
+- [CNN](https://github.com/AhnYeonghoo/TIL/blob/main/ML%26DL/CNN.ipynb)
 
 <hr />
 
