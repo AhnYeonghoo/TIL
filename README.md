@@ -14,15 +14,18 @@
 
 # ML&DL
 
-- [neural_network_training](https://github.com/AhnYeonghoo/TIL/blob/main/ML%26DL/nn_traning.ipynb)
-- [overfitting](https://github.com/AhnYeonghoo/TIL/blob/main/ML%26DL/overfitting.ipynb)
-- [CNN](https://github.com/AhnYeonghoo/TIL/blob/main/ML%26DL/CNN.ipynb)
+- DL
+  - [neural_network_training](https://github.com/AhnYeonghoo/TIL/blob/main/ML%26DL/nn_traning.ipynb)
+  - [overfitting](https://github.com/AhnYeonghoo/TIL/blob/main/ML%26DL/overfitting.ipynb)
+  - [CNN](https://github.com/AhnYeonghoo/TIL/blob/main/ML%26DL/CNN.ipynb)
+  - [distributed_representation](https://github.com/AhnYeonghoo/TIL/blob/main/ML%26DL/distributed_representation.ipynb)
 
 <hr />
 
 # Lab
 
 - [nn_train](https://github.com/AhnYeonghoo/TIL/blob/main/Lab/nn_train.md)
+- [distributed_representation](https://github.com/AhnYeonghoo/TIL/blob/main/Lab/distributed_representation.md)
 
 <hr />
 
