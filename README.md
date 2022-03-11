@@ -1,15 +1,16 @@
 # Today I Learn
 
-<hr />
-
 # EDA
 
+- numpy_100ex
+  - [numpy_0~10](https://github.com/AhnYeonghoo/TIL/blob/main/EDA/numpy_0-10ex.ipynb)<hr />
 - [airline_satisfaction_prediction](https://github.com/AhnYeonghoo/TIL/blob/main/EDA/airline_satisfaction_prediction.ipynb)
 - [BERT_naver_movie_classification](https://github.com/AhnYeonghoo/TIL/blob/main/EDA/BERT_naver_movie_classification.ipynb)
 - [NLP_prepare](https://github.com/AhnYeonghoo/TIL/blob/main/EDA/NLP_prepare.py.ipynb)
 - [NLP_Tweet_Emotion_Recognition](https://github.com/AhnYeonghoo/TIL/blob/main/EDA/NLP_Tweet_Emotion_Recognition.ipynb)
 - [text_preprocessing](https://github.com/AhnYeonghoo/TIL/blob/main/EDA/text_preprocessing.py.ipynb)
 
+<hr />
 <hr />
 
 # ML&DL
@@ -19,7 +20,9 @@
   - [overfitting](https://github.com/AhnYeonghoo/TIL/blob/main/ML%26DL/overfitting.ipynb)
   - [CNN](https://github.com/AhnYeonghoo/TIL/blob/main/ML%26DL/CNN.ipynb)
   - [distributed_representation](https://github.com/AhnYeonghoo/TIL/blob/main/ML%26DL/distributed_representation.ipynb)
+  - [word2vec_cbow_model](https://github.com/AhnYeonghoo/TIL/blob/main/ML%26DL/word2vec_cbow_model.ipynb)
 
+<hr />
 <hr />
 
 # Lab
@@ -27,6 +30,7 @@
 - [nn_train](https://github.com/AhnYeonghoo/TIL/blob/main/Lab/nn_train.md)
 - [distributed_representation](https://github.com/AhnYeonghoo/TIL/blob/main/Lab/distributed_representation.md)
 
+<hr />
 <hr />
 
 # English
