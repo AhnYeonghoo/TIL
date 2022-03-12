@@ -29,6 +29,7 @@
 
 - [nn_train](https://github.com/AhnYeonghoo/TIL/blob/main/Lab/nn_train.md)
 - [distributed_representation](https://github.com/AhnYeonghoo/TIL/blob/main/Lab/distributed_representation.md)
+- [word2vec_CBOW](https://github.com/AhnYeonghoo/TIL/blob/main/Lab/word2vec.CBOW.md)
 
 <hr />
 <hr />
