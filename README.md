@@ -39,3 +39,13 @@
 - [day1](https://github.com/AhnYeonghoo/TIL/blob/main/English/day1.md)
 - [day2](https://github.com/AhnYeonghoo/TIL/blob/main/English/day2.md)
 - [day3](https://github.com/AhnYeonghoo/TIL/blob/main/English/day3.md)
+- [day4](https://github.com/AhnYeonghoo/TIL/blob/main/English/day4.md)
+
+<ht />
+<ht />
+
+# C/C++
+
+- C++
+  - [두 점 사이의 거리 구하기]()
+  - [헤론의 공식을 이용한 삼각형 넓이 구하기]()

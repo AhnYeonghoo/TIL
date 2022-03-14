@@ -1,0 +1,6 @@
+﻿  distance.cpp
+C:\Users\Ahn_YeongHoo\Desktop\TIL\C_C++\distance.h(6,17): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  triangle.cpp
+C:\Users\Ahn_YeongHoo\Desktop\TIL\C_C++\triangle.h(14,10): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  C_C++.vcxproj -> C:\Users\Ahn_YeongHoo\Desktop\TIL\C_C++\x64\Debug\C_C++.exe
