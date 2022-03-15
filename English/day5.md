@@ -1,0 +1,74 @@
+# 토익 기본 영단어 day3
+
+- accustomed: 익숙한
+- corporation: 법인, 주식회사
+- corporate: 법인의, 회사의
+- demanding: 요구가 많은, 힘든
+- demand: 요구하다
+- colleague: 동료(associate, coworker, peer)
+- division: 부서
+- divide: 나누다
+- compartment: 구획, 칸막이
+- request: 요청; 요청하다
+- effciently: 효율적으로
+- efficient: 효율적인
+- efficiency: 효율
+- manage: ~을 경영하다; 가까스로 하다
+- submit: 제출하다
+- directly: 곧바로
+- direct: 지도하다; 직접적인
+- direction: 방향
+- submission: 제출, 제출물
+- management: 경영
+- manageable: 관리할 수 있는
+- remind: ~에게 상기시키다, 일깨우다
+- reminder: 상기시켜 주는 것, 메모
+- instruct: 지시하다, 가르치다
+- instruction: 지시
+- instructor: 강사
+- deadline: 마감일, 마감시간
+- sample: 샘플; 시식하다, 시험하다
+- notify: ~에게 통지하다, 알리다
+- notification: 통지
+- inform: 알리다, 통지하다
+- perform: 행하다, 실행하다
+- conduct: 하다, 행동하다, 실행하다
+- complete: 완수하다
+- monitor: 감독하다, 감시하다, 검토하다; 모니터
+- deserve: ~할 만하다, -할 가치가 있다.
+- deserved: 응당한
+- assignment: 일, 임무, 과제
+- entire: 전체의
+- release: 발표하다, 공개하다. 출시, 발매
+- extension: 연장, 연기; 내선전화
+- electronically: 컴퓨터 통신망으로, 컴퓨터로
+- electronic: 컴퓨터 통신망의
+- attendance: 출석, 출근
+- attend: ~에 출석하다, 참석하다
+- attendant: 수행원, 안내원
+- absolutely: 절대적으로, 완전히
+- absolute: 완전한, 절대적인
+- delegate: 위임하다; 대표
+- delegation: 대표단, 위임
+- attentively: 주의 깊게, 조심스럽게
+- supervision: 감독
+- workshop: 워크숍, 연수
+- draw: 끌다, 끌어당기다
+- attract: 주의 흥미를 끌다, 어디로 끌어들이다
+- revision: 수정, 개정
+- revise: 개정하다
+- revised: 개정된
+- reluctantly: 마지못해, 꺼려하여
+- acquaint: ~에게 숙지시키다, 잘 알게 하다
+- convey: 전달하다
+- conveyor: 운반인, 전달자
+- acquaintance: 지인
+- check: 검사하다, 조사하다; 확인하다
+- inspect, examine: 검사하다
+- headquarters: 본부
+- file: (서류)정리하다, 철하다; 정식으로 제기하다, 제출하다
+- oversee: 감독하다
+- involved: 관여하는, 관계된, 연루된
+- concentrate: 집중하다, 집중시키다
+- concentration: 집중
+- concentrated: 집중된
