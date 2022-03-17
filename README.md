@@ -44,7 +44,7 @@
   - [let,with,run,apply,also](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture31.kt)
   - [enumClass](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture32.kt)
   - [E.g: emailSearch](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/emailSearch.kt)
-  - [E.g: isEven?](https://github.com/AhnYeonghoo/TIL/blob/main/kotline/trueANdFalse.kt)
+  - [E.g: isEven?](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/trueANdFalse.kt)
 
   <br>
 
