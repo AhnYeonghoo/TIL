@@ -21,6 +21,7 @@
   - [CNN](https://github.com/AhnYeonghoo/TIL/blob/main/ML%26DL/CNN.ipynb)
   - [distributed_representation](https://github.com/AhnYeonghoo/TIL/blob/main/ML%26DL/distributed_representation.ipynb)
   - [word2vec_cbow_model](https://github.com/AhnYeonghoo/TIL/blob/main/ML%26DL/word2vec_cbow_model.ipynb)
+  - [word2vec_cbow_embedding](https://github.com/AhnYeonghoo/TIL/blob/main/ML%26DL/embedding.ipynb)
 
 <hr />
 <hr />
@@ -30,6 +31,7 @@
 - [nn_train](https://github.com/AhnYeonghoo/TIL/blob/main/Lab/nn_train.md)
 - [distributed_representation](https://github.com/AhnYeonghoo/TIL/blob/main/Lab/distributed_representation.md)
 - [word2vec_CBOW](https://github.com/AhnYeonghoo/TIL/blob/main/Lab/word2vec.CBOW.md)
+- [embedding](https://github.com/AhnYeonghoo/TIL/blob/main/Lab/embedding.md)
 
 <hr />
 <hr />
@@ -42,6 +44,7 @@
 - [day4](https://github.com/AhnYeonghoo/TIL/blob/main/English/day4.md)
 - [day5](https://github.com/AhnYeonghoo/TIL/blob/main/English/day5.md)
 - [day6](https://github.com/AhnYeonghoo/TIL/blob/main/English/day6.md)
+- [day7](https://github.com/AhnYeonghoo/TIL/blob/main/English/day7.md)
 
 <ht />
 <ht />

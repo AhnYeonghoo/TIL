@@ -1,0 +1,82 @@
+# 토익 기본 영단어 day 5
+
+- sophisticated: 정교한, 복잡한; 세련된
+- sophistication: 정교함
+- complex: 복잡한
+- refined: 세련된
+- timely: 시기적절한, 때를 맞춘
+- realistically: 현실적으로
+- realistic: 현실적인
+- realism: 현실주의
+- promptly: 즉시; 정각에
+- prompt: 신속한, 즉각적인; (어떤 일이 일어나도록)하다, 촉발하다
+- immediately, instantly: 즉시
+- accessible: 출입할 수 있는; 이용할 수 있는
+- implement: 실시하다, 실행하다
+- access: 이용 권한, 접근; ~에 접근하다
+- accessiblilty: 접근(가능성)
+- implementation: 실행
+- execute: 실행하다
+- feedback: 의견, 반응
+- outstanding: 우수한; 미지불된
+- exceptional: 우수한, 매우 뛰어난
+- overdue, unpaid: 연체된, 미납의
+- inform: ~에게 알리다
+- informative: 정보를 제공하는, 유익한
+- replacement: 교체; 후임자
+- announcement: 공고, 발표
+- announce: 알리다
+- department: 부서
+- permanently: 영구적으로, 불변으로
+- fulfill: 만족시키다; 이행하다, 지키다
+- fulfillment: 성취, 달성, 이행
+- outline: 개요; 설명하다, 약술하다
+- explain: 설명하다
+- explanation: 설명, 해명, 이유
+- contain: 포함하다
+- compile: 편집하다; 모으다
+- subsequent: 차후의, 그 다음의
+- overview: 개요, 개관
+- provider: 공급자, 제공자
+- matter: 문제, 일
+- expertise: 전문지식, 전문기술
+- expert: 전문가
+- demonstrate: 증명하다; 설명하다
+- demonstration: 증명
+- prove: 증명하다
+- explain: 설명하다
+- remainder: 나머지
+- remain: 남다, 여전히 ~이다
+- remaining: 남은, 남아있는
+- balance: 잔액
+- essential: 필수적인, 극히 중요한, 본질적인
+- divide: 나누다, 분배하다
+- dividend: 배당금
+- break up: ~을 분리하다
+- major: 주요한, 중대한
+- compliance: 준수
+- comply: 따르다, 준수하다
+- clarify: 명확하게 하다
+- face: 직면하다; 향하다, 마주보다
+- follow: ~을 따라가다; 주시하다; 이해하다
+- following: ~의 후에; 다음의
+- pay attention to: ~에 집중하다, 주의하다
+- precede: ~에 선행하다
+- aspect: 관점, 국면
+- apparently: 보기에 ~한 듯한, 외관상으로는
+- seemingly: 겉으로는
+- aware: 알고있는, 인식하고 있는
+- awareness: 자각, 인식
+- extended: 연장한, 장기간에 걸친
+- extension: 연장, 확장
+- extend: 연장하다, 늘리다
+- accidentally: 뜻하지 않게, 우연히
+- accident: 사고
+- deliberately: 고의로
+- accidental: 우연한
+- advisable: 바람직한, 합당한
+- advise: 충고하다
+- adivce: 충고
+- concerned: 걱정하는, 염려하는; 관련된
+- concern: 걱정; ~을 걱정시키다, -와 관계가 있다
+- speak: 이야기하다
