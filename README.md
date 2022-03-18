@@ -22,6 +22,7 @@
   - [distributed_representation](https://github.com/AhnYeonghoo/TIL/blob/main/ML%26DL/distributed_representation.ipynb)
   - [word2vec_cbow_model](https://github.com/AhnYeonghoo/TIL/blob/main/ML%26DL/word2vec_cbow_model.ipynb)
   - [word2vec_cbow_embedding](https://github.com/AhnYeonghoo/TIL/blob/main/ML%26DL/embedding.ipynb)
+  - [word2vec skip-gram_model](https://github.com/AhnYeonghoo/TIL/blob/main/ML%26DL/skip_gram.py)
 
 <hr />
 <hr />
