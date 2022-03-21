@@ -42,6 +42,7 @@
   - [Lateinit, Lazy](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture29.kt)
   - [Infix Function](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture30.kt)
   - [let,with,run,apply,also](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture31.kt)
+  - [enumClass](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture32.kt)
 
   <br>
 
