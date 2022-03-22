@@ -1,0 +1,58 @@
+# 토익 기본 영단어 day6
+
+- disperse: 퍼뜨리다
+- adjacent: 인접한
+- sequence: 연속, 순서
+- detect: 발견하다
+- flexible: 유연한
+- surpass: 능가하다
+- invariable: 변함없는
+- dramatic: 이상적인
+- master: 습득하다, 제어하다
+- assimilate: 이해하다
+- overwhelming: 압도적인
+- curious: 호기심이 강한, 이상한, 별난
+- alteration: 변화, 수정
+- consequuence: 결과, 중요성
+- deceive: 속이다
+- ample: 넓은, 풍부한
+- resilient: 금방 회복하는
+- detact: 분리하다
+- account: 기술, 보고
+- equilibrium: 균형
+- surmise: 추측하다
+- unsuitable: 적합하지 않은
+- imaginative: 창의적인
+- imposing: 인상적인
+- vitality: 활력
+- vehicle: 탈 것, 수단, 매체
+- hitherto: 지금까지
+- plague: 괴롭히다
+- domain: 영역
+- indifferent: 무관심한
+- champion: 옹호하다
+- deteriorate: 악화되다
+- assault: 공격하다
+- appropriate: 적절한
+- adept: 능숙한
+- indeed: 사실은
+- pursuit: 취미, 오락
+- incite: 자극하다
+- guarantee: 보장하다
+- prosperity: 변명
+- primarily: 주로; 원래, 처음에
+- erupt: 폭팔하다
+- trace: 자취, 흔적
+- prestigious: 명성이 있는
+- shape: 형성하다
+- inflict: 주다, 가하다
+- portion: 부분
+- coincidence: 우연의 일치
+- propel: 몰아대다
+- thoroughly: 철저히, 완전히
+- contemplate: 곰곰이 생각하다
+- unethical: 비윤리적인
+- replicate: 복제하다
+- hasty: 황급한
+- representative: 나타내는
+- range: 범위

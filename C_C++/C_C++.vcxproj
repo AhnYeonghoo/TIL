@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="distance.cpp" />
     <ClCompile Include="hello.cpp" />
+    <ClCompile Include="homework03.cpp" />
     <ClCompile Include="triangle.cpp" />
   </ItemGroup>
   <ItemGroup>

@@ -1,6 +1,6 @@
 #include <iostream> // 입출력을 위해 임포트
 #include "distance.h" // 두 점 사이 거리를 구하기 위해 임포트
-
+/*
 int main() {
 	float x1, x2, y1, y2; // 입력받을 점 좌표
 	float result; // 결과를 저장할 변수를 선언한다.
@@ -14,3 +14,4 @@ int main() {
 		
 	return 1;
 }
+*/

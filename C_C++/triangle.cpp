@@ -1,5 +1,6 @@
 #include <iostream> // 입출력을 위한 헤더파일 임포트
 #include "triangle.h" // 삼각형 판별 및 넓이 구하는 함수가 있는 헤더파일 임포트
+/*
 int main() {
 	float a, b, c; // 입력받을 세 실수
 	float result; // 결괏값 저장
@@ -18,4 +19,4 @@ int main() {
 		
 	}
 	return 1;
-}
+}*/

@@ -48,6 +48,7 @@
 - [day5](https://github.com/AhnYeonghoo/TIL/blob/main/English/day5.md)
 - [day6](https://github.com/AhnYeonghoo/TIL/blob/main/English/day6.md)
 - [day7](https://github.com/AhnYeonghoo/TIL/blob/main/English/day7.md)
+- [day8](https://github.com/AhnYeonghoo/TIL/blob/main/English/day8.md)
 
 <ht />
 <ht />
