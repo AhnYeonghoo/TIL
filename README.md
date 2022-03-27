@@ -64,10 +64,10 @@
 - Kotlin In Action 정리
   - [1장~2장(문자열 템플릿까지만)](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/kotlinInAction.kt)
 
-<hr />
+<br >
+<br >
 
-<br >
-<br >
+<hr/>
 
 # English
 
@@ -138,9 +138,10 @@
 
 <br>
 
-<hr />
 <br >
 <br >
+
+<hr/>
 
 # Opensource_basic_project(2022-1)
 
@@ -153,20 +154,19 @@
 - [week12](https://github.com/AhnYeonghoo/TIL/blob/main/opensourceproject/week12.md)
 - [week13](https://github.com/AhnYeonghoo/TIL/blob/main/opensourceproject/week13.md)
 
-<hr />
-
 <br >
 <br >
+<hr/>
 
 # Javascript
 
 - [async, defer](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/ch2.js)
 - [variable](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/ch3.js)
 
-<hr />
+<br>
+<br>
 
-<br>
-<br>
+<hr/>
 
 # Lab
 
