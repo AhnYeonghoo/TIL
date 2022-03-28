@@ -24,7 +24,6 @@
   - [word2vec_cbow_embedding](https://github.com/AhnYeonghoo/TIL/blob/main/ML%26DL/embedding.ipynb)
   - [word2vec skip-gram_model](https://github.com/AhnYeonghoo/TIL/blob/main/ML%26DL/skip_gram.py)
   - [TimeRNN](https://github.com/AhnYeonghoo/TIL/blob/main/ML%26DL/rnn.ipynb)
-  
 
 <hr />
 <hr />
@@ -53,6 +52,7 @@
 - [day8](https://github.com/AhnYeonghoo/TIL/blob/main/English/day8.md)
 - [day9](https://github.com/AhnYeonghoo/TIL/blob/main/English/day9.md)
 - [day10](https://github.com/AhnYeonghoo/TIL/blob/main/English/day10.md)
+- [day11](https://github.com/AhnYeonghoo/TIL/blob/main/English/day11.md)
 
 <ht />
 <ht />
@@ -77,3 +77,4 @@
 # Javascript
 
 - [async, defer](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/ch2.js)
+- [variable](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/ch3.js)

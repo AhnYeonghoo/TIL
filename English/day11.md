@@ -1,0 +1,53 @@
+# 토익 기본영단어 day10
+
+- purchase: 구매하다; 구매
+- price: 가격
+- affordable: 알맞은, 감당할 수 있는
+- afford: ~할 이유가 있다
+- exactly: 정확히
+- installment: 할부
+- notice: 공고, 통지
+- charge: 요금, 청구금액; 책임, 의무
+- experienced: 경험이 있는, 능숙한, 노련한
+- instruction: 설명, 지시
+- instructional: 교육용의
+- expert: 전문가; 전문적인, 전문가의
+- warranty: 보증, 보증서
+- refund: 환불, 환불금
+- subscriber: 구독자, 가입자
+- delivery: 배달
+- receipt: 영수증
+- carefully: 조심히, 신중히
+- offer: 공급하다, 제공하다; 공급, 제공, 오퍼
+- benefit: 혜택, 이익; 혜택을 보다, 이익을 얻다
+- exclusively: 독점적으로, 오로지
+- exclusive: 배타적인, 독점적인
+- exclude: 배제하다
+- description: 설명, 해설
+- describe: 설명하다
+- relatively: 상대적으로
+- relative: 상대적인
+- relate: 관련시키다, 결부시키다; 들려주다
+- preparation: 준비, 대비
+- spare: 아끼다, 할애하다; 예비의, 여분의
+- area: 지역, 구역
+- clearance: 정리, 없애기; 허가
+- alter: 고치다, 바꾸다
+- apply: 적용하다, 지원하다
+- mutually: 서로, 상호간에
+- method: 방법, 방식
+- acceptable: 용인되는, 받아들일 수 있는; 훌륭한, 만족스러운
+- desire: 욕구, 갈망; 원하다, 바라다
+- redeemable: 교환할 수 있는, 환급할 수 있는
+- redeem: 되찾다; 상품으로 바꾸다
+- officially: 공식적으로
+- official: 공식의
+- consumption: 소비, 소모
+- qualify: 자격을 얻다
+- qualification: 자격, 면허
+- fabric: 섬유, 천
+- auction: 경매
+- authentic: 진정한, 진짜의, 진품의
+- valid: 유효한
+- effective: 유효한, 효력이 있는
+- vendor: 노점상; 판매업체
