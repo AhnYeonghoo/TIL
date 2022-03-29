@@ -63,7 +63,7 @@
   - [두 점 사이의 거리 구하기](https://github.com/AhnYeonghoo/TIL/blob/main/C_C%2B%2B/distance.cpp)
   - [헤론의 공식을 이용한 삼각형 넓이 구하기](https://github.com/AhnYeonghoo/TIL/blob/main/C_C%2B%2B/triangle.cpp)
   - [homework_week3](https://github.com/AhnYeonghoo/TIL/blob/main/C_C%2B%2B/homework03.cpp)
-  - [homework_week4](https://github.com/AhnYeonghoo/TIL/blob/main/C_C%2B%2B/homework04/homework04.cpp)
+  - [homework_week4](https://github.com/AhnYeonghoo/TIL/blob/main/C_C%2B%2B/homework04/homework04_2.cpp)
 
 <hr />
 <hr />
