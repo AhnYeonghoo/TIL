@@ -55,6 +55,7 @@
   - [countAlpabetNumber](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/countAlpabet.kt)
   - [FindName](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/findName.kt)
   - [countCoin](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/countCoin.kt)
+  - [Average](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/average.kt)
 
 <hr />
 
