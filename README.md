@@ -35,7 +35,7 @@
   - [distributed_representation](https://github.com/AhnYeonghoo/TIL/blob/main/Lab/distributed_representation.md)
   - [word2vec_CBOW](https://github.com/AhnYeonghoo/TIL/blob/main/Lab/word2vec.CBOW.md)
   - [embedding](https://github.com/AhnYeonghoo/TIL/blob/main/Lab/embedding.md)
-  - [rnn](https://github.com/AhnYeonghoo/TIL/blob/main/Lab/rnn.md)
+  - [rnn](https://github.com/AhnYeonghoo/TIL/blob/main/Lab/rnn.md)- [rnn](https://github.com/AhnYeonghoo/TIL/blob/main/Lab/lstm.md)
 
 <hr />
 <hr />
@@ -64,6 +64,7 @@
   - [헤론의 공식을 이용한 삼각형 넓이 구하기](https://github.com/AhnYeonghoo/TIL/blob/main/C_C%2B%2B/triangle.cpp)
   - [homework_week3](https://github.com/AhnYeonghoo/TIL/blob/main/C_C%2B%2B/homework03.cpp)
   - [homework_week4](https://github.com/AhnYeonghoo/TIL/blob/main/C_C%2B%2B/homework04/homework04_2.cpp)
+  - [homework_week5](https://github.com/AhnYeonghoo/TIL/blob/main/C_C%2B%2B/homework05/homework05.cpp)
 
 <hr />
 <hr />
@@ -71,6 +72,7 @@
 # Opensource_basic_project(2022-1)
 
 - [week4](https://github.com/AhnYeonghoo/TIL/blob/main/opensourceproject/week4.md)
+- [week5](https://github.com/AhnYeonghoo/TIL/blob/main/opensourceproject/week5.md)
 
 <hr />
 <hr />
