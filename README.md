@@ -73,6 +73,7 @@
 
 - [week4](https://github.com/AhnYeonghoo/TIL/blob/main/opensourceproject/week4.md)
 - [week5](https://github.com/AhnYeonghoo/TIL/blob/main/opensourceproject/week5.md)
+- [week6](https://github.com/AhnYeonghoo/TIL/blob/main/opensourceproject/week6.md)
 
 <hr />
 <hr />
