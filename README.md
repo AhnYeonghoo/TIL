@@ -56,6 +56,8 @@
   - [FindName](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/findName.kt)
   - [countCoin](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/countCoin.kt)
   - [Average](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/average.kt)
+  - [countCoin](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/countCoin.kt)
+  - [reverseStringPrint](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/reversePrint.kt)
 
 <hr />
 
