@@ -53,6 +53,7 @@
   - [FindMinNumber]](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/findMin.kt)
   - [Factorial]](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/factorial.kt)
   - [countAlpabetNumber]](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/countAlpabet.kt)
+  - [FindName]](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/findName.kt)
 
 <hr />
 
