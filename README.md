@@ -50,6 +50,7 @@
 
 - Algorithm
   - [Beakjoon1002 turret](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/beakjoon1002.kt)
+  - [FindMinNumber]](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/findMin.kt)
 
 <hr />
 
