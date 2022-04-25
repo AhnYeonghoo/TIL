@@ -39,6 +39,9 @@
   - [High-order Function](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture26.kt)
   - [Generic](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture27.kt)
   - [Object, Singleton Pattern](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture28.kt)
+  - [Lateinit, Lazy](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture29.kt)
+  - [Infix Function](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture30.kt)
+  - [let,with,run,apply,also](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture31.kt)
 
   <br>
 
