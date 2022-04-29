@@ -38,6 +38,7 @@
   - [Lambda Expression](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture25.kt)
   - [High-order Function](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture26.kt)
   - [Generic](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture27.kt)
+  - [Object, Singleton Pattern](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture28.kt)
 
   <br>
 
