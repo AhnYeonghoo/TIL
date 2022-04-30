@@ -37,6 +37,7 @@
   - [NestedClass, InnerClass](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture24.kt)
   - [Lambda Expression](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture25.kt)
   - [High-order Function](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture26.kt)
+  - [Generic](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture27.kt)
 
   <br>
 
