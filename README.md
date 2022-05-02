@@ -35,6 +35,7 @@
   - [Interface](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture22.kt)
   - [DataClass](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture23.kt)
   - [NestedClass, InnerClass](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture24.kt)
+  - [Lambda Expression](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture25.kt)
 
   <br>
 
