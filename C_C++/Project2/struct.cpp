@@ -7,7 +7,7 @@ struct inflatable
 	double price;
 };
 
-int main()
+int temp2()
 {
 	using namespace std;
 	/*inflatable guests[2] =
@@ -41,7 +41,7 @@ int main()
 	int* pt = &higgens;
 	cout << "higgens의 값 = " << higgens << ", higgens의 주소 = " << &higgens << endl;
 	cout << "*pt의 값 = " << *pt << ", pt의 값 = " << pt << endl;
-	*/
+	
 	int nights = 1001;
 	int* pt = new int;
 	*pt = 1001;
@@ -60,5 +60,7 @@ int main()
 	cout << "*pt의 크기 = " << sizeof(*pt);
 	cout << "pd의 크기 = " << sizeof(pd);
 	cout << "*pd의 크기 = " << sizeof(*pd);
+	*/
 	
+	return 0;
 }

@@ -140,7 +140,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="prac.cpp" />
+    <ClCompile Include="practice.cpp" />
     <ClCompile Include="struct.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="foo.h" />
+    <ClInclude Include="goo.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -21,5 +21,16 @@
     <ClCompile Include="struct.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="practice.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="goo.h">
+      <Filter>리소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="foo.h">
+      <Filter>리소스 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

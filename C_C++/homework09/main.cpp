@@ -1,0 +1,18 @@
+#include "Elementary.h"
+#include "middle.h"
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+	
+	Person* pe = (Person*)new Elementary("Â¯±¸", 8,  "»õ½Ï", 1.f, "»õ½Ï¹Ý");
+	Person* pm = (Person*)new Middle("ÈÆÀÌ", 14, "¿¬µÎ", 1.5f, "¿¬µÎÇÐ°ú");
+	
+	cout << "-³¡" << endl;
+	
+	delete pe;
+	delete pm;
+	return 0;
+}
