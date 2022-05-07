@@ -32,7 +32,8 @@
   - [Override](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture20.kt)
   - [AbstractClass](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture21.kt)
   - [Generic, TypeSafety](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/generic.kt)
-    - [Interface](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture22.kt)
+  - [Interface](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture22.kt)
+  - [DataClass](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture23.kt)
 
   <br>
 
