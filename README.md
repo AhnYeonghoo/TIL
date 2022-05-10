@@ -65,6 +65,9 @@
   - [homework_week3](https://github.com/AhnYeonghoo/TIL/blob/main/C_C%2B%2B/homework03.cpp)
   - [homework_week4](https://github.com/AhnYeonghoo/TIL/blob/main/C_C%2B%2B/homework04/homework04_2.cpp)
   - [homework_week5](https://github.com/AhnYeonghoo/TIL/blob/main/C_C%2B%2B/homework05/homework05.cpp)
+  - [homework_week6](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/homework06)
+  - [homework_week9](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/homework09)
+  - [homework_week10](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/homework10)
 
 <hr />
 <hr />
