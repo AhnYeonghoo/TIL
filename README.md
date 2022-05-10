@@ -35,7 +35,7 @@
   - [distributed_representation](https://github.com/AhnYeonghoo/TIL/blob/main/Lab/distributed_representation.md)
   - [word2vec_CBOW](https://github.com/AhnYeonghoo/TIL/blob/main/Lab/word2vec.CBOW.md)
   - [embedding](https://github.com/AhnYeonghoo/TIL/blob/main/Lab/embedding.md)
-  - [rnn](https://github.com/AhnYeonghoo/TIL/blob/main/Lab/rnn.md)- [rnn](https://github.com/AhnYeonghoo/TIL/blob/main/Lab/lstm.md)
+  - [rnn](https://github.com/AhnYeonghoo/TIL/blob/main/Lab/rnn.md)
 
 <hr />
 <hr />
