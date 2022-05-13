@@ -6,3 +6,6 @@ images_none/
 deeplearning/
 Private_1st, RoBERTa, Voting ensemble.ipynb
 *.exe
+main.cpp
+myarray.cpp
+myarray.h
