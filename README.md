@@ -1,9 +1,17 @@
 # Today I Learn
 
+<br >
+<br >
+
 # EDA
 
 - numpy_100ex
-  - [numpy_0~10](https://github.com/AhnYeonghoo/TIL/blob/main/EDA/numpy_0-10ex.ipynb)<hr />
+
+  - [numpy_0~10](https://github.com/AhnYeonghoo/TIL/blob/main/EDA/numpy_0-10ex.ipynb)
+
+  <br>
+  <br>
+
 - [airline_satisfaction_prediction](https://github.com/AhnYeonghoo/TIL/blob/main/EDA/airline_satisfaction_prediction.ipynb)
 - [BERT_naver_movie_classification](https://github.com/AhnYeonghoo/TIL/blob/main/EDA/BERT_naver_movie_classification.ipynb)
 - [NLP_prepare](https://github.com/AhnYeonghoo/TIL/blob/main/EDA/NLP_prepare.py.ipynb)
@@ -11,7 +19,8 @@
 - [text_preprocessing](https://github.com/AhnYeonghoo/TIL/blob/main/EDA/text_preprocessing.py.ipynb)
 
 <hr />
-<hr />
+<br >
+<br >
 
 # ML&DL
 
@@ -25,7 +34,8 @@
   - [word2vec skip-gram_model](https://github.com/AhnYeonghoo/TIL/blob/main/ML%26DL/skip_gram.py)
   - [TimeRNN](https://github.com/AhnYeonghoo/TIL/blob/main/ML%26DL/rnn.ipynb)
 
-<hr />
+<br>
+<br>
 <hr />
 
 # Lab
@@ -38,7 +48,9 @@
   - [rnn](https://github.com/AhnYeonghoo/TIL/blob/main/Lab/rnn.md)
 
 <hr />
-<hr />
+
+<br >
+<br >
 
 # English
 
@@ -54,12 +66,13 @@
 - [day10](https://github.com/AhnYeonghoo/TIL/blob/main/English/day10.md)
 - [day11](https://github.com/AhnYeonghoo/TIL/blob/main/English/day11.md)
 
-<ht />
-<ht />
+<br >
+<br >
+<hr />
 
 # C/C++
 
-- C++
+- C++ homework
   - [두 점 사이의 거리 구하기](https://github.com/AhnYeonghoo/TIL/blob/main/C_C%2B%2B/distance.cpp)
   - [헤론의 공식을 이용한 삼각형 넓이 구하기](https://github.com/AhnYeonghoo/TIL/blob/main/C_C%2B%2B/triangle.cpp)
   - [homework_week3](https://github.com/AhnYeonghoo/TIL/blob/main/C_C%2B%2B/homework03.cpp)
@@ -69,8 +82,17 @@
   - [homework_week9](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/homework09)
   - [homework_week10](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/homework10)
 
+<br>
+
+- 씹어먹는 C++ 강의록
+  - [Lecture1&2](https://github.com/AhnYeonghoo/TIL/blob/main/C_C%2B%2B/cpp_lecture/lecture1/)
+  - [Lecture3](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_lecture/lecture3)
+
+<br>
+
 <hr />
-<hr />
+<br >
+<br >
 
 # Opensource_basic_project(2022-1)
 
@@ -79,7 +101,9 @@
 - [week6](https://github.com/AhnYeonghoo/TIL/blob/main/opensourceproject/week6.md)
 
 <hr />
-<hr />
+
+<br >
+<br >
 
 # Javascript
 
