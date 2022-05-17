@@ -91,6 +91,7 @@
   - [Lecture3(반복문, 조건문)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_lecture/lecture3)
   - [Lecture4(레퍼런스 문법)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_lecture/lecture4)
   - [Lecture5(new_delete)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_lecture/lecture5)
+  - [Lecture6(Class)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_lecture/lecture6)
 
 <br>
 
