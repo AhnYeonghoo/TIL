@@ -93,6 +93,7 @@
   - [Lecture5(new_delete)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_lecture/lecture5)
   - [Lecture6(Class)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_lecture/lecture6)
   - [Lecture7(Overloading & Contructor)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_lecture/lecture7)
+  - [Lecture8(Start! OOP & Destructor)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_lecture/lecture8)
 
 <br>
 
