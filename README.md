@@ -18,22 +18,6 @@
 - [NLP_Tweet_Emotion_Recognition](https://github.com/AhnYeonghoo/TIL/blob/main/EDA/NLP_Tweet_Emotion_Recognition.ipynb)
 - [text_preprocessing](https://github.com/AhnYeonghoo/TIL/blob/main/EDA/text_preprocessing.py.ipynb)
 
-<hr />
-<br >
-<br >
-
-# ML&DL
-
-- DL
-  - [neural_network_training](https://github.com/AhnYeonghoo/TIL/blob/main/ML%26DL/nn_traning.ipynb)
-  - [overfitting](https://github.com/AhnYeonghoo/TIL/blob/main/ML%26DL/overfitting.ipynb)
-  - [CNN](https://github.com/AhnYeonghoo/TIL/blob/main/ML%26DL/CNN.ipynb)
-  - [distributed_representation](https://github.com/AhnYeonghoo/TIL/blob/main/ML%26DL/distributed_representation.ipynb)
-  - [word2vec_cbow_model](https://github.com/AhnYeonghoo/TIL/blob/main/ML%26DL/word2vec_cbow_model.ipynb)
-  - [word2vec_cbow_embedding](https://github.com/AhnYeonghoo/TIL/blob/main/ML%26DL/embedding.ipynb)
-  - [word2vec skip-gram_model](https://github.com/AhnYeonghoo/TIL/blob/main/ML%26DL/skip_gram.py)
-  - [TimeRNN](https://github.com/AhnYeonghoo/TIL/blob/main/ML%26DL/rnn.ipynb)
-
 <br>
 <br>
 <hr />
