@@ -2,17 +2,15 @@
 
 <br >
 
-
 <hr />
 
 # Lab
 
-- **해당 저장소에 올리는 마크다운 파일은 연구실 private repo에 올리는 용으로 github에는 latex 문법과 이미지가 정상적으로 업로드 되지 않아서, 다소 보기 어려울 수 있습니다.**
-  - [nn_train](https://github.com/AhnYeonghoo/TIL/blob/main/Lab/nn_train.md)
-  - [distributed_representation](https://github.com/AhnYeonghoo/TIL/blob/main/Lab/distributed_representation.md)
-  - [word2vec_CBOW](https://github.com/AhnYeonghoo/TIL/blob/main/Lab/word2vec.CBOW.md)
-  - [embedding](https://github.com/AhnYeonghoo/TIL/blob/main/Lab/embedding.md)
-  - [rnn](https://github.com/AhnYeonghoo/TIL/blob/main/Lab/rnn.md)
+- [nn_train](https://github.com/AhnYeonghoo/TIL/blob/main/Lab/nn_train.md)
+- [distributed_representation](https://github.com/AhnYeonghoo/TIL/blob/main/Lab/distributed_representation.md)
+- [word2vec_CBOW](https://github.com/AhnYeonghoo/TIL/blob/main/Lab/word2vec.CBOW.md)
+- [embedding](https://github.com/AhnYeonghoo/TIL/blob/main/Lab/embedding.md)
+- [rnn](https://github.com/AhnYeonghoo/TIL/blob/main/Lab/rnn.md)
 
 <hr />
 
@@ -93,3 +91,12 @@
 
 - [async, defer](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/ch2.js)
 - [variable](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/ch3.js)
+
+<hr />
+
+<br>
+<br>
+
+# Data Communication & Computer Network
+
+- []
