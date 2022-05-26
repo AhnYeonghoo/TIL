@@ -46,7 +46,7 @@
   - [homework_week5](https://github.com/AhnYeonghoo/TIL/blob/main/C_C%2B%2B/homework05/homework05.cpp)
   - [homework_week6](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/homework06)
   - [homework_week9](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/homework09)
-  - [homework_week10](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/homework10)
+  - [final_homework](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/final_homework)
 
 <br>
 
