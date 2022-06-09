@@ -59,7 +59,7 @@ class Triangle : public Figure {
         Triangle(POINT a, POINT b, POINT c) : Figure(this->rePOINT(a, b, c), 't') {
             std::cout << "T" << std::endl;
         }
-        void distance() override {
+        double distance() override {
             this->distance = this->reDistance();
         }
         void area() override{
@@ -113,7 +113,7 @@ class Circle : public Figure {
             return new POINT[1]{a}
         }
         void distance() override {
-            this->distance = this->reDistance();
+            this->&distance = this->reDistance();
             std::cout << this->distance[0] << std::endl;
         }
         void area() override {
@@ -125,7 +125,7 @@ class Circle : public Figure {
             return new double[1]{dis};
         };
         double reArea() override {
-            double p = this->distance[0];
+            double p = this->distance;
             return 3.14 * p * p;
         }
         ~Circle() {
