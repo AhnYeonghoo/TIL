@@ -66,6 +66,7 @@
 
 - C++ 기초플러스
   - [Chapter04(CharArray, delete, struct)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_premier/chapter04)
+  - [Chapter07(function, pointer_function, array)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_premier/chapter07)
 
 <br>
 
