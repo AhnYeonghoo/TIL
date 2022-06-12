@@ -119,8 +119,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "c:/Users/Ahn_YeongHoo/Desktop/TIL/C_C++/cpp_lecture/c_cpp_programming/week3",
-      "program": "c:/Users/Ahn_YeongHoo/Desktop/TIL/C_C++/cpp_lecture/c_cpp_programming/week3/build/Debug/outDebug",
+      "cwd": "c:/Users/Ahn_YeongHoo/Desktop/TIL/C_C++/cpp_lecture/c_cpp_programming/week9",
+      "program": "c:/Users/Ahn_YeongHoo/Desktop/TIL/C_C++/cpp_lecture/c_cpp_programming/week9/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
