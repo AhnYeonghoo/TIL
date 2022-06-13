@@ -1,28 +1,55 @@
 #include <iostream>
 
 class Person {
-    Person(int _age): age(_age){}
-    Person(): age(0){}
-    private:
-        int age;
-
-        public:
-            int get_age() { return this.age; }
+    
+    public:
+        Person() {
+            std::cout << "Hello Person" << std::endl;
+        }
+        void talk() {
+            std::cout << "Person" << std::endl;
+        }
             
-    virtual ~Person(){}
+        ~Person(){
+            std::cout << "Bye Person" << std::endl;
+        }
 };
 
 class Student : public Person {
-    Student(int _study): study(_study) {}
-    Student(): study(0){}
+    
 
-     private: 
-        int study;
+        Student(){}
         
-     public:
-         int get_age() { return age + study; }
-
+     
          ~Student(){}
+};
+
+class Elementary : public Person {
+
+    public:
+        Elementary() {
+            std::cout << "Hello Elementary" << std::endl;
+        }
+        ~Elementary() {
+            std::cout << "Bye Elementary" << std::endl;
+        }
+        void talk() {
+            std::cout << "Elementary" << std::endl;
+        }
+};
+
+class Middle : public Person {
+    
+    public:
+        Middle() {
+            std::cout << "Hello Middle" << std::endl;
+        }
+        ~Middle() {
+            std::cout << "Bye Middle" << std::endl;
+        }
+        void talk() {
+            std::cout << "Middle" << std::endl;
+        }
 };
 
 int main() {
@@ -72,5 +99,21 @@ int main() {
     ptr_s->get_age();
 
     delete ptr_p;
+
+    std::cout << "\n\n\n";
+    std::cout << "Upcasting Declare" << std::endl;
+    Person *pe = (Person *)new Elementary();
+    std::cout << "Downcasting Declare" << std::endl;
+    Middle *mp = (Middle *) new Person();
+    std::cout << "-----start-----" << std::endl;
+    pe->talk();
+    mp->talk();
+    std::cout << "-----end-----" << std::endl;
+
+    std::cout << "Upcasting delete" << std::endl;
+    delete pe;
+    std::cout << "Downcasting delete" << std::endl;
+    delete mp;
+
     return 0;
 }
