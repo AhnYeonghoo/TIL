@@ -115,4 +115,6 @@
 <br>
 <br>
 
-# Data Communication & Computer Network
+# Kotlin
+
+- [variable, condition, when, function](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/sample.kt)
