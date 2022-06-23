@@ -117,5 +117,4 @@
 
 # Kotlin
 
-- [variable, condition, when, function](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/sample.kt)
-- [Array, List, ArrayList, For, While](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/class02.kt)
+- [variable, condition, when, function, Array, List, ArrayList, For, While](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/HelloKotlin.kt)
