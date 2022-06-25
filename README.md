@@ -119,3 +119,7 @@
 
 - [variable, condition, when, function, Array, List, ArrayList, For, While](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/HelloKotlin.kt)
 - [코틀린 공식문서 1, 2장](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/basicSystax.kt)
+- [comment, tab, variable](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture01.kt)
+- [Type, casting](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture02.kt)
+- [condition(if, else, when)](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture03.kt)
+- [Practice Example](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture04.kt)
