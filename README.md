@@ -123,3 +123,6 @@
 - [Type, casting](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture02.kt)
 - [condition(if, else, when)](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture03.kt)
 - [Practice Example](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture04.kt)
+- [list, filter, ?, !!](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture05.kt)
+- [for, gugudan](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture06.kt)
+- [mutableList, map, set, dataStructure](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture07.kt)
