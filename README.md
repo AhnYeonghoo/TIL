@@ -130,3 +130,5 @@
 - [Example2](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture09.kt)
 - [Function](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture10.kt)
 - [Example3](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture11.kt)
+- [And, Or Expression](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture12.kt)
+- [StringMethod](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture13.kt)
