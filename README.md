@@ -4,13 +4,29 @@
 
 <hr />
 
-# Lab
+# Kotlin
 
-- [nn_train](https://github.com/AhnYeonghoo/TIL/blob/main/Lab/nn_train.md)
-- [distributed_representation](https://github.com/AhnYeonghoo/TIL/blob/main/Lab/distributed_representation.md)
-- [word2vec_CBOW](https://github.com/AhnYeonghoo/TIL/blob/main/Lab/word2vec_CBOW.md)
-- [embedding](https://github.com/AhnYeonghoo/TIL/blob/main/Lab/embedding.md)
-- [rnn](https://github.com/AhnYeonghoo/TIL/blob/main/Lab/rnn.md)
+- [variable, condition, when, function, Array, List, ArrayList, For, While](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/HelloKotlin.kt)
+- [코틀린 공식문서 1, 2장](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/basicSystax.kt)
+- [comment, tab, variable](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture01.kt)
+- [Type, casting](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture02.kt)
+- [condition(if, else, when)](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture03.kt)
+- [Practice Example](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture04.kt)
+- [list, filter, ?, !!](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture05.kt)
+- [for, Example1](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture06.kt)
+- [mutableList, map, set, dataStructure](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture07.kt)
+- [List, Map, Iterator](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture08.kt)
+- [Example2](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture09.kt)
+- [Function](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture10.kt)
+- [Example3](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture11.kt)
+- [And, Or Expression](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture12.kt)
+- [StringMethod](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture13.kt)
+- [ElvisOperator](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture14.kt)
+- [Any,Is,As](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture15.kt)
+- [ListMethod](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture16.kt)
+- [Class](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture17.kt)
+- [OverLoading](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture18.kt)
+- [Inheritance](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture19.kt)
 
 <hr />
 
@@ -115,25 +131,10 @@
 <br>
 <br>
 
-# Kotlin
+# Lab
 
-- [variable, condition, when, function, Array, List, ArrayList, For, While](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/HelloKotlin.kt)
-- [코틀린 공식문서 1, 2장](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/basicSystax.kt)
-- [comment, tab, variable](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture01.kt)
-- [Type, casting](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture02.kt)
-- [condition(if, else, when)](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture03.kt)
-- [Practice Example](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture04.kt)
-- [list, filter, ?, !!](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture05.kt)
-- [for, Example1](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture06.kt)
-- [mutableList, map, set, dataStructure](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture07.kt)
-- [List, Map, Iterator](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture08.kt)
-- [Example2](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture09.kt)
-- [Function](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture10.kt)
-- [Example3](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture11.kt)
-- [And, Or Expression](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture12.kt)
-- [StringMethod](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture13.kt)
-- [ElvisOperator](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture14.kt)
-- [ListMethod](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture15.kt)
-- [Class](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture16.kt)
-- [OverLoading](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture17.kt)
-- [Inheritance](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture18.kt)
+- [nn_train](https://github.com/AhnYeonghoo/TIL/blob/main/Lab/nn_train.md)
+- [distributed_representation](https://github.com/AhnYeonghoo/TIL/blob/main/Lab/distributed_representation.md)
+- [word2vec_CBOW](https://github.com/AhnYeonghoo/TIL/blob/main/Lab/word2vec_CBOW.md)
+- [embedding](https://github.com/AhnYeonghoo/TIL/blob/main/Lab/embedding.md)
+- [rnn](https://github.com/AhnYeonghoo/TIL/blob/main/Lab/rnn.md)
