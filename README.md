@@ -132,3 +132,8 @@
 - [Example3](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture11.kt)
 - [And, Or Expression](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture12.kt)
 - [StringMethod](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture13.kt)
+- [ElvisOperator](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture14.kt)
+- [ListMethod](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture15.kt)
+- [Class](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture16.kt)
+- [OverLoading](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture17.kt)
+- [Inheritance](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture18.kt)
