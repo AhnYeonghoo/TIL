@@ -27,6 +27,8 @@
 - [Class](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture17.kt)
 - [OverLoading](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture18.kt)
 - [Inheritance](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture19.kt)
+- [Override](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture20.kt)
+- [AbstractClass](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture21.kt)
 
 <hr />
 
