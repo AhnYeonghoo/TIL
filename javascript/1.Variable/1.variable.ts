@@ -9,4 +9,3 @@ let b;
 console.log(b);
 
 b = 10;
-console.log(b);
