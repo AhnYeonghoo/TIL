@@ -2,7 +2,7 @@
   "name": "typescript",
   "version": "1.0.0",
   "description": "",
-  "main": "basicType.js",
+  "main": "src/index.js",
   "directories": {
     "test": "test"
   },
@@ -34,7 +34,9 @@
     "typescript": "^4.7.4"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node src",
+    "build": "tsc && node dist"
   },
   "keywords": [],
   "author": "",
