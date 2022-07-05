@@ -171,6 +171,15 @@
 
 <hr/>
 
+# Typescript
+
+- [module](https://github.com/AhnYeonghoo/TIL/blob/main/TypeScript/src/utils/makePerson.ts)
+
+<br>
+<br>
+
+<hr/>
+
 # Lab
 
 - [nn_train](https://github.com/AhnYeonghoo/TIL/blob/main/Lab/nn_train.md)
