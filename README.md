@@ -75,6 +75,7 @@
   - [Shallow Copy Concept](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/8.Array/4.shallow.js)
   - [Array Quiz](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/8.Array/5.quiz.js)
   - [Higher-Order Function](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/8.Array/6.hof.js)
+  - [HOF Quiz](https://github.com/AhnYeonghoo/TIL/blob/main/javascript/8.Array/7.quiz.js)
 
 <br>
 
