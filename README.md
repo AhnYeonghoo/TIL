@@ -5,6 +5,8 @@
 # Java
 
 - 자바의정석 
+  - [2장 변수](https://github.com/AhnYeonghoo/TIL/tree/main/Java/src/Chapter2)
+  - [3장 연산자](https://github.com/AhnYeonghoo/TIL/tree/main/Java/src/Chapter3)
     
 
 <br>
