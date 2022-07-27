@@ -20,4 +20,4 @@ node_modules/
 tsconfig.json
 package-lock.json
 tsconfig.json
-
+out/
