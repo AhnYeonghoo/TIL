@@ -1,3 +1,5 @@
+package Chapter2;
+
 public class PrintEx1 {
     public static void main(String[] args) {
         byte b = 1;
@@ -22,5 +24,16 @@ public class PrintEx1 {
         System.out.printf("octNum=%o %d %n", octNum, octNum);
         System.out.printf("hexNum=%x, %d %n", hexNum, hexNum);
         System.out.printf("binNum=%s, %d %n", binNum, binNum);
+        Person person = new Person();
+        System.out.println(person.getAge());
+    }
+
+    private static class Person {
+        private int age = 10;
+
+        public int getAge() {
+            return age;
+        }
     }
 }
+

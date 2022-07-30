@@ -1,3 +1,5 @@
+package Chapter2;
+
 import java.util.*;
 public class ScannerEx {
     public static void main(String[] args) {

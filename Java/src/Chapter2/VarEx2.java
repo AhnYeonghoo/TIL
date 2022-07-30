@@ -1,3 +1,5 @@
+package Chapter2;
+
 public class VarEx2 {
     public static void main(String[] args) {
 
