@@ -156,7 +156,7 @@
 
 # Kotlin
 
-- Basic Grammer
+- Basic Grammar
 
   - [variable, condition, when, function, Array, List, ArrayList, For, While](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/HelloKotlin.kt)
   - [코틀린 공식문서 1, 2장](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/basicSystax.kt)
