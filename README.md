@@ -288,14 +288,6 @@
 
 <hr/>
 
-# Typescript
-
-- [module](https://github.com/AhnYeonghoo/TIL/blob/main/TypeScript/src/utils/makePerson.ts)
-
-<br>
-<br>
-
-<hr/>
 
 # Lab
 
@@ -310,16 +302,3 @@
 
 <hr/>
 
-# English
-
-- [day1](https://github.com/AhnYeonghoo/TIL/blob/main/English/day1.md)
-- [day2](https://github.com/AhnYeonghoo/TIL/blob/main/English/day2.md)
-- [day3](https://github.com/AhnYeonghoo/TIL/blob/main/English/day3.md)
-- [day4](https://github.com/AhnYeonghoo/TIL/blob/main/English/day4.md)
-- [day5](https://github.com/AhnYeonghoo/TIL/blob/main/English/day5.md)
-- [day6](https://github.com/AhnYeonghoo/TIL/blob/main/English/day6.md)
-- [day7](https://github.com/AhnYeonghoo/TIL/blob/main/English/day7.md)
-- [day8](https://github.com/AhnYeonghoo/TIL/blob/main/English/day8.md)
-- [day9](https://github.com/AhnYeonghoo/TIL/blob/main/English/day9.md)
-- [day10](https://github.com/AhnYeonghoo/TIL/blob/main/English/day10.md)
-- [day11](https://github.com/AhnYeonghoo/TIL/blob/main/English/day11.md)
