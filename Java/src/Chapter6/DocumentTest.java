@@ -1,6 +1,5 @@
 package Chapter6;
 
-
 class Document {
     static int count = 0;
     String name;
