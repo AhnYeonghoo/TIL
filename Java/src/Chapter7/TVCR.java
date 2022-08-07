@@ -35,7 +35,7 @@ class TVCR extends Tv {
         vcr.play();
     }
     void stop() {
-        vcr.stop()
+        vcr.stop();
     }
     void rew() {
         vcr.rew();
