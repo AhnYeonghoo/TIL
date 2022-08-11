@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\TIL.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\TIL.dir/objects.a @CMakeFiles\TIL.dir\objects1.rsp
+C:\MinGW\bin\mingw32-g++.exe -g -Wl,--whole-archive CMakeFiles\TIL.dir/objects.a -Wl,--no-whole-archive -o TIL.exe -Wl,--out-implib,libTIL.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\TIL.dir\linklibs.rsp
