@@ -34,6 +34,8 @@ using namespace silla;
 using namespace baekjae;
 
 int main() {
+
+    //Chapter1
     int number = 0;
     // cin >> number;
     cout << number << endl;
@@ -102,4 +104,7 @@ int main() {
     cout << Func1() << endl;
     cout << Func2() << endl;
     cout << x << endl;
+
+    // Chapter 2
+    
 }
