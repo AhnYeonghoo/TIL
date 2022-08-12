@@ -3,5 +3,13 @@
     "c": "cd $dir && gcc $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
     "cpp": "cd $dir && g++ $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt"
   },
-  "terminal.integrated.shell.windows": "C:\\Windows\\sysnative\\cmd.exe"
+  "terminal.integrated.shell.windows": "C:\\Windows\\sysnative\\cmd.exe",
+  "files.associations": {
+    "**/*.html": "html",
+    "**/templates/**/*.html": "django-html",
+    "**/templates/**/*": "django-txt",
+    "**/requirements{/**,*}.{txt,in}": "pip-requirements",
+    "*.html": "html",
+    "iostream": "cpp"
+  }
 }
