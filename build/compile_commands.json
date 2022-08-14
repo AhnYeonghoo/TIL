@@ -1,7 +1,0 @@
-[
-{
-  "directory": "C:/Users/Ahn_YeongHoo/Desktop/TIL/build",
-  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/TIL.dir/includes_CXX.rsp -g -o CMakeFiles\\TIL.dir\\C_C++\\ROS-Cpp\\main.cpp.obj -c C:\\Users\\Ahn_YeongHoo\\Desktop\\TIL\\C_C++\\ROS-Cpp\\main.cpp",
-  "file": "C:/Users/Ahn_YeongHoo/Desktop/TIL/C_C++/ROS-Cpp/main.cpp"
-}
-]
