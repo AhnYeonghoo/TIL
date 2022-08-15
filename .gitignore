@@ -21,3 +21,4 @@ tsconfig.json
 package-lock.json
 build/
 out/
+cmake-build-debug/
