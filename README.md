@@ -58,6 +58,8 @@
 
 - Numpy
 
+  - [기본적인 사용법](https://github.com/AhnYeonghoo/TIL/blob/main/Python/numpy/basic.ipynb)
+
 - Pandas
 
 - OpenCV
