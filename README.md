@@ -51,11 +51,18 @@
   - [final_week(auto, template, class, poly etc..)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_lecture/c_cpp_programming/final_week)
 
 <br>
-
-- Algorithm
-  - [asdsa]()
-
 <br>
+<hr />
+
+# Python
+
+- Numpy
+
+- Pandas
+
+- OpenCV
+
+- Pytorch
 
 <br>
 <br>
