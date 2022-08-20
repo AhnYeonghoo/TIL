@@ -32,3 +32,4 @@ cmake-build-debug/
 /part2
 .jpg
 *.png
+*.txt
