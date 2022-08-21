@@ -9,7 +9,6 @@ Private_1st, RoBERTa, Voting ensemble.ipynb
 main.cpp
 myarray.cpp
 myarray.h
-.txt
 .vcxproj
 .sln
 .filters
@@ -22,8 +21,8 @@ package-lock.json
 build/
 out/
 cmake-build-debug/
-/.vs
-/.vscode
+vs/
+vscode/
 /p1ch2
 /p1ch3
 /p1ch4
