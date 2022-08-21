@@ -56,6 +56,16 @@
 
 # Python
 
+- Grammar
+
+  - 자료형
+
+    - [숫자형](https://github.com/AhnYeonghoo/TIL/blob/main/Python/basic_grammar/2-1number.py)
+    - [문자열](https://github.com/AhnYeonghoo/TIL/blob/main/Python/basic_grammar/2-2string.py)
+    - [불리언](https://github.com/AhnYeonghoo/TIL/blob/main/Python/basic_grammar/2-3boolean.py)
+    - [변수](https://github.com/AhnYeonghoo/TIL/blob/main/Python/basic_grammar/2-4variable.py)
+    - [주석](https://github.com/AhnYeonghoo/TIL/blob/main/Python/basic_grammar/2-5comment.py)
+
 - Numpy
 
   - [기본적인 사용법](https://github.com/AhnYeonghoo/TIL/blob/main/Python/numpy/basic.ipynb)
