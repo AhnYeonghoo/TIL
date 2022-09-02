@@ -36,3 +36,19 @@ print(cal1.sub())
 print(cal1.mul())
 print(cal1.div())
 print(cal2.pow())
+print('\n\n')
+print(abs(-5)) # 5
+print(pow(4, 2)) # 16
+print(max(1, -10, 5))
+print(min(3, 1, -10))
+print(round(3.14))
+print(round(4.54))
+
+from math import *
+print(floor(4.99))
+print(ceil(4.13))
+print(sqrt(9))
+print(sqrt(3))
+
+
+
