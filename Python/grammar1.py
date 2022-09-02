@@ -64,7 +64,7 @@ print(b2.name, b2.price)
 b3 = BlackBox2("dd3", 40000)
 print(b3.name, b3.price)
 #  아 맞다 파이썬 주석 #이었지.. // /**/랑 헷갈리누..
-
+# 주석의 색깔이 이쁘네요.
 
         
         

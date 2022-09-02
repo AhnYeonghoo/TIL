@@ -3,6 +3,7 @@ dataset_none/
 temp.md
 images/
 images_none/
+*.jar
 deeplearning/
 Private_1st, RoBERTa, Voting ensemble.ipynb
 *.exe
