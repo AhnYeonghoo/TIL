@@ -32,3 +32,5 @@ def an(ham: str, eggs: str = 'eggs') -> str:
     return ham + ', and ' + eggs
     
 an('spam')
+import sys
+print(sys.version)
