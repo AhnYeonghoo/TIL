@@ -85,5 +85,6 @@ print(a)
 del a[:]
 print(a)
 del a
-print(a)
+# print(a)
+
 
