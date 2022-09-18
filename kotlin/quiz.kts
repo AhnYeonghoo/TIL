@@ -1,42 +1,98 @@
-// 1. 변수 A, B 선언하고, 두 변수 값이 같으면 true, 아니면 false가 되는 c 선언
-val A: Int = 10
-val B: Int = 20
-val C: Boolean = if (A == B) true else false
+// 1. 주어진 문자를 N번 반복해서 출력하는 함수를 만들기
+/**
+ *  2. 1부터 주어진 숫자끼리의 합을 구한느 함수를 만들기
+ *  3. 1부터 100까지의 수중에서 7의 배수의 합을 구하는 함수를 만들기
+ */
 
-// 2. 정수형 변수 A를 선언하고 변수 B를 선언하는데 B는 A의 두배
-val A2: Int = 10
-val B2: Int = A * 2
-
-// 3. 학생의 시험 점수를 넣어주면 학점을 변환하는 함수를 만드시오
-// (90 이상 a, 80~89 b, 70~79 c, 아님 f)
-fun getGrade(num: Int): Char {
-    if (num >= 90) return 'A'
-    else if (num in 80..89) return 'B'
-    else if (num in 70..79) return 'C'
-    else return 'F'
+fun cycleNPrint(n: Int, str: String): Unit {
+    for (i in 1..n) {
+        println(str)
+    }
 }
 
-println(getGrade(90))
-
-// 4. 학생이 시험에서 맞은 문제의 갯수를 넣어주면 시험 정수를 반환하는 함수
-// (시험 문제는 총 20, 만점 100)
-fun getNumber(num: Int): Int {
-    val result: Int = num * 5
+//cycleNPrint(5, "5번")
+fun numNSum(num: Int): Int {
+    var result: Int = 0
+    for (i in 1..num) {
+        result += i
+    }
     return result
 }
 
-println(getNumber(15))
-
-// 5. nullable 정수형 두개를 받는 함수를 만든다. 이 함수는 받은 인수의 합을 반환
-// 이때 인수중에 null이 있으면 0으로 취급하여 합을 구한다.
-
-fun getInteger(num1: Int?, num2: Int?): Int {
-//    if (num1 == null) {
-//        num1 = 0
-//    }
-    var first: Int = if (num1 == null) 0 else num1
-    var second: Int = if (num2 == null) 0 else num2
-    return first + second
-
+//println(numNSum(10))
+fun oneToHun(): Int {
+    var result: Int = 0
+    for (i in 1..100) {
+        if (i % 7 == 0) result += i
+    }
+    return result
 }
-println(getInteger(null, 20))
+
+//println(oneToHun())
+fun returnHun(num: Int): Unit {
+    if (num >= 100) return
+    var result: Int = num
+    while (result != 100) {
+        result++
+    }
+}
+returnHun(50)
+
+fun trueOrFalse(numbers: Array<Int>): String {
+    val result = arrayOf(false, false, false, false, false, false, false, false, false, false)
+    var i: Int = 0
+    for (number in numbers) {
+        if (number >= 80) result.set(i, true)
+        else result.set(i, false)
+        i++
+    }
+    return result.toString()
+}
+println(trueOrFalse(arrayOf(70, 80, 90, 70, 80, 90, 60, 70, 80, 90)))
+fun eat(num1: Int, num2: Int): Unit {
+    var number1 = num1
+    var number2 = num2
+    if (number2 >= number1) {
+        println("배가 부르다")
+        return
+    }
+    do {
+        println("밥을 먹었다.")
+        number1++
+        if (number2 <= number1)  {
+            println("배가 부르다.")
+            break
+        }
+    } while (number2 > number1)
+}
+
+fun repeatText(repeatText: String, repeatNumber: Int): Unit {
+    for (i in 1..repeatNumber) println(repeatText)
+}
+//repeatText("repeatText", 3)
+
+fun sumUntil(givenNumber: Int): Int {
+    var sum: Int = 0
+    for (i in 1..givenNumber) sum += i
+    return sum
+}
+//println(sumUntil(5))
+fun sumSevenSum(): Int {
+    var sum: Int = 0
+    for (i in 1..100) {
+        if (i % 7 == 0) sum += i
+    }
+    return sum
+}
+//println(sumSevenSum())
+
+fun increaseOne(numberUnder: Int): Unit {
+    var number = numberUnder
+    while (number < 100) {
+        number++
+        println("Up")
+    }
+    return
+}
+
+//increaseOne(70)
