@@ -1,6 +1,42 @@
 # Today I Learn
 
+<br>
 <br >
+<br>
+
+
+# Kotlin
+
+- Syntax
+
+  - [condition](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/condition.kts)
+  - [BasicSyntax](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/basicSystax.kt)
+  - [DataType](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/dataType.kts)
+  - [Collections](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/Collection.kts)
+  - [Iterable](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/Iterable.kts)
+  - [Array](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/Iterable.kts)
+  - [Generic](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/generic.kt)
+  - [Property](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/property.kts)
+  - [AccessModifier](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/property.kts)
+
+<br >
+
+- Algorithm
+
+  - Baekjoon
+  
+    - [셀프넘버](https://github.com/AhnYeonghoo/TIL/blob/main/Algorithm/src/4673.kts)
+  
+<br >
+
+- DataStructure
+  
+  - [week2](https://github.com/AhnYeonghoo/TIL/tree/main/kotlin/week2)
+  - [week3](https://github.com/AhnYeonghoo/TIL/tree/main/kotlin/week3)
+
+<br >
+<br>
+<hr />
 
 # C/C++
 
