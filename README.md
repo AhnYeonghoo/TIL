@@ -18,14 +18,63 @@
   - [Generic](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/generic.kt)
   - [Property](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/property.kts)
   - [AccessModifier](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/property.kts)
+  - [variable, condition, when, function, Array, List, ArrayList, For, While](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/HelloKotlin.kt)
+  - [코틀린 공식문서 1, 2장](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/basicSystax.kt)
+  - [comment, tab, variable](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture01.kt)
+  - [Type, casting](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture02.kt)
+  - [condition(if, else, when)](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture03.kt)
+  - [Practice Example](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture04.kt)
+  - [list, filter, ?, !!](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture05.kt)
+  - [for, Example1](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture06.kt)
+  - [mutableList, map, set, dataStructure](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture07.kt)
+  - [List, Map, Iterator](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture08.kt)
+  - [Example2](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture09.kt)
+  - [Function](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture10.kt)
+  - [Example3](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture11.kt)
+  - [And, Or Expression](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture12.kt)
+  - [StringMethod](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture13.kt)
+  - [ElvisOperator](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture14.kt)
+  - [Any,Is,As](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture15.kt)
+  - [ListMethod](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture16.kt)
+  - [Class](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture17.kt)
+  - [OverLoading](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture18.kt)
+  - [Inheritance](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture19.kt)
+  - [Override](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture20.kt)
+  - [AbstractClass](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture21.kt)
+  - [Generic, TypeSafety](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/generic.kt)
+  - [Interface](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture22.kt)
+  - [DataClass](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture23.kt)
+  - [NestedClass, InnerClass](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture24.kt)
+  - [Lambda Expression](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture25.kt)
+  - [High-order Function](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture26.kt)
+  - [Generic](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture27.kt)
+  - [Object, Singleton Pattern](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture28.kt)
+  - [Lateinit, Lazy](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture29.kt)
+  - [Infix Function](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture30.kt)
+  - [let,with,run,apply,also](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture31.kt)
+  - [enumClass](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture32.kt)
+  - [E.g: emailSearch](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/emailSearch.kt)
+  - [E.g: isEven?](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/trueANdFalse.kt)
+  - [Kotlin org Example1](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/org1.kt)
+  - [Kotlin org Example2](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/org2.kt)
+  - [dataBinding, Log](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/MainActivity.kt)
 
 <br >
 
 - Algorithm
 
   - Baekjoon
-  
+
     - [셀프넘버](https://github.com/AhnYeonghoo/TIL/blob/main/Algorithm/src/4673.kts)
+    - [Beakjoon1002 turret](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/beakjoon1002.kt)
+    - [FindMinNumber](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/findMin.kt)
+    - [Factorial](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/factorial.kt)
+    - [countAlpabetNumber](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/countAlpabet.kt)
+    - [FindName](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/findName.kt)
+    - [countCoin](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/countCoin.kt)
+    - [Average](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/average.kt)
+    - [countCoin](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/countCoin.kt)
+    - [reverseStringPrint](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/reversePrint.kt)
   
 <br >
 
@@ -250,67 +299,6 @@
 
   - BaekjoonOnlineJudge
 
-<br >
-<br >
-<hr/>
-
-# Kotlin
-
-- Basic Grammar
-
-  - [variable, condition, when, function, Array, List, ArrayList, For, While](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/HelloKotlin.kt)
-  - [코틀린 공식문서 1, 2장](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/basicSystax.kt)
-  - [comment, tab, variable](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture01.kt)
-  - [Type, casting](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture02.kt)
-  - [condition(if, else, when)](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture03.kt)
-  - [Practice Example](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture04.kt)
-  - [list, filter, ?, !!](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture05.kt)
-  - [for, Example1](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture06.kt)
-  - [mutableList, map, set, dataStructure](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture07.kt)
-  - [List, Map, Iterator](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture08.kt)
-  - [Example2](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture09.kt)
-  - [Function](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture10.kt)
-  - [Example3](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture11.kt)
-  - [And, Or Expression](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture12.kt)
-  - [StringMethod](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture13.kt)
-  - [ElvisOperator](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture14.kt)
-  - [Any,Is,As](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture15.kt)
-  - [ListMethod](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture16.kt)
-  - [Class](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture17.kt)
-  - [OverLoading](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture18.kt)
-  - [Inheritance](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture19.kt)
-  - [Override](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture20.kt)
-  - [AbstractClass](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture21.kt)
-  - [Generic, TypeSafety](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/generic.kt)
-  - [Interface](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture22.kt)
-  - [DataClass](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture23.kt)
-  - [NestedClass, InnerClass](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture24.kt)
-  - [Lambda Expression](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture25.kt)
-  - [High-order Function](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture26.kt)
-  - [Generic](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture27.kt)
-  - [Object, Singleton Pattern](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture28.kt)
-  - [Lateinit, Lazy](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture29.kt)
-  - [Infix Function](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture30.kt)
-  - [let,with,run,apply,also](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture31.kt)
-  - [enumClass](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/lecture32.kt)
-  - [E.g: emailSearch](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/emailSearch.kt)
-  - [E.g: isEven?](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/trueANdFalse.kt)
-  - [Kotlin org Example1](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/org1.kt)
-  - [Kotlin org Example2](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/org2.kt)
-  - [dataBinding, Log](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/MainActivity.kt)
-
-  <br>
-
-- Algorithm
-  - [Beakjoon1002 turret](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/beakjoon1002.kt)
-  - [FindMinNumber](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/findMin.kt)
-  - [Factorial](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/factorial.kt)
-  - [countAlpabetNumber](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/countAlpabet.kt)
-  - [FindName](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/findName.kt)
-  - [countCoin](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/countCoin.kt)
-  - [Average](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/average.kt)
-  - [countCoin](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/countCoin.kt)
-  - [reverseStringPrint](https://github.com/AhnYeonghoo/TIL/blob/main/kotlin/reversePrint.kt)
 
 <br >
 <br >
