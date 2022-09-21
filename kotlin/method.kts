@@ -1,34 +1,25 @@
-fun plusNumbers(firstNum: Int, secondNum: Int): Int {
-    return firstNum + secondNum
-}
-plusNumbers(3, 5)
+// 클래스의 메서드
+//
 
-val result: Int = plusNumbers(5, 5)
-result
+class FootballPlayer constructor(uniform: String, ball: String) {
 
-fun plusNumbersWithDefault(firstNum: Int, secondNum: Int = 10): Int {
-    return firstNum + secondNum
-}
-println(plusNumbersWithDefault(10))
+    val uniform: String
+    val ball: String
 
-fun plusNumberWithNoReturn(firstNum: Int, secondNum: Int): Unit {
-    println(firstNum + secondNum)
-}
-fun plusNumberWithNoReturn2(firstNum: Int, secondNum: Int) {
-    println(firstNum + secondNum)
-    return
-}
-plusNumberWithNoReturn(20, 50)
+    init {
+        this.uniform = uniform
+        this.ball = ball
+    }
 
-// 함수 선언을 간단하게 람다식으로
-fun shortPlusNumbers(firstNum: Int, secondNum: Int) = firstNum + secondNum
-println(shortPlusNumbers(100, 20))
+    fun kick() {
+        println("공을 찼습니다!")
+    }
 
-// 가변 인자를 갖는 함수
-fun multiplePlusNumbers(vararg numbers: Int): Unit {
-    for (number in numbers) {
-        println(number)
+    fun pass() {
+        println("pass!")
     }
 }
 
-multiplePlusNumbers(1, 2, 3, 4, 5)
+val footballPlayer = FootballPlayer("빨강", "축구공")
+println(footballPlayer.uniform)
+println(footballPlayer.pass())
