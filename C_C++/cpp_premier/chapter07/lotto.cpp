@@ -1,9 +1,9 @@
 #include <iostream>
+using namespace std;
 
 long double probability(unsigned numbers, unsigned picks);
 
 int main() {
-
     using namespace std;
     double total, choices;
 

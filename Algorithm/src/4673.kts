@@ -7,6 +7,7 @@ fun main() = with(Scanner(System.`in`)) {
         if (temp > 10000) continue
         array[temp] = 0
     }
+
     for (i in 0 until array.size) {
         if (array[i] != 0) println("${array[i] - 1}")
     }
