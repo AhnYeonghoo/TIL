@@ -39,6 +39,23 @@ class Stack<Element>() : StackInterface<Element> {
         get() = storage.size
 }
 
+
+fun String.checkParentheses(): Boolean {
+    val stack = Stack<Char>()
+    for (character in this) {
+        when (character) {
+            '(' -> stack.push(character)
+            ')' -> if (stack.isEmpty) {
+                return false
+            } else {
+                stack.pop()
+            }
+        }
+    }
+    
+    return stack.isEmpty
+}
+
 fun main() {
     val stack = Stack<Int>().apply {
         push(1)
@@ -54,19 +71,9 @@ fun main() {
         print(stack)
     }
     println(stack.peek())
+    
+    val s = "H((e))llo(world)()"
+    println(s.checkParentheses())
+    println("(Hello World".checkParentheses())
 }
 
-fun String.checkParentheses(): Boolean {
-    val stack = Stack<Char>()
-    for (character in this) {
-        when (character) {
-            '(' -> stack.push(character)
-            ')' -> if (stack.isEmpty) {
-                return false
-            } else {
-                stack.pop()
-            }
-        }
-    }
-    return stack.isEmpty
-}
