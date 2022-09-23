@@ -18,11 +18,11 @@ fun copyFromTo2(from: Array<out Fruit>, to: Array<in Fruit>) {
     }
 }
 
-fun <T: AutoCloseable> useAndClose(input: T) {
+fun <T : AutoCloseable> useAndClose(input: T) {
     input.close()
 }
 
-fun <T> useAndClose2(input: T) where T: AutoCloseable, T: Appendable {
+fun <T> useAndClose2(input: T) where T : AutoCloseable, T : Appendable {
     input.append("there")
     input.close()
 }
@@ -49,6 +49,7 @@ inline fun <reified T> findFirst2(fruits: List<Fruit>): T {
     }
     return selected[0] as T
 }
+
 fun main() {
     //val fruits: Array<Apple> = arrayOf(Apple())
     //receiveFruits()

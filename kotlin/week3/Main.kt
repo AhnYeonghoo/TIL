@@ -35,7 +35,7 @@ fun main() {
     println()
     println()
 
-    val cat: Cat = Cat(name="Tom")
+    val cat: Cat = Cat(name = "Tom")
     cat.talk()
 
     println()
