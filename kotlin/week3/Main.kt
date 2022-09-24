@@ -51,6 +51,7 @@ fun main() {
     tc.address = "Earth"
     println(tc.address)
 
+
     tc.cursed = true
     println(tc.speed)
 

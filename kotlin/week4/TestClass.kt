@@ -62,9 +62,7 @@ class Smartphone(val model: String) {
     var name: String = "Noname"
 
     fun func1() {
-
         println("Name is $name")
-
     }
 
     inner class Inner {
@@ -78,7 +76,7 @@ class Smartphone(val model: String) {
         const val country = "Korea"
         fun getSomething() = println("Get Country")
         fun whichCpu() {
-            priuntln("I don`t know..")
+            println("I don`t know..")
         }
     }
 }

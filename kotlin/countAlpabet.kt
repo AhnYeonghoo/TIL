@@ -1,7 +1,6 @@
 // 문자열의 개수 카운트
 
 fun main() {
-
     val result1 = solution6("aabbaabccbb")
     println(result1)
     // {b=5, a=4, c=2}
@@ -10,7 +9,7 @@ fun main() {
     println(result2)
 }
 
-fun solution6( str: String) : Map<String, Int> {
+fun solution6(str: String): Map<String, Int> {
 
     val result = mutableMapOf<String, Int>()
     val resultArr = mutableListOf<String>()
@@ -30,6 +29,6 @@ fun solution6( str: String) : Map<String, Int> {
     }
 
 
-    return result.toList().sortedBy { it.second}.reversed().toMap()
+    return result.toList().sortedBy { it.second }.reversed().toMap()
 
 }
