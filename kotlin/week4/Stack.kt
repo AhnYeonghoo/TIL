@@ -56,7 +56,6 @@ class Stack<Element>() : StackInterface<Element> {
 
 fun String.checkParentheses(): Boolean {
 
-    val stack = Stack<Char>()
 
     for (character in this) {
 
@@ -77,6 +76,7 @@ fun String.checkParentheses(): Boolean {
     return stack.isEmpty
 
 }
+val stack = Stack<Char>()
 
 
 fun main() {
