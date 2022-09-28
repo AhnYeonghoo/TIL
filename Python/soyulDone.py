@@ -66,7 +66,7 @@ legecyBonus = lotto_dict['bnsNum'][:7]
         1. 1등 - 1번
         2. 2등 - 3번
         3. 5등 - 100번
-        """
+"""
         
 
 
