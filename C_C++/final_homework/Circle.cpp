@@ -1,4 +1,4 @@
-// 2021040016_¾È¿µÈÄ
+// 2021040016_ï¿½È¿ï¿½ï¿½ï¿½
 
 #include "Circle.h"
 
@@ -9,3 +9,4 @@ Circle::Circle(Position _center, double _radius) : center(_center), radius(_radi
 double Circle::cal_area() {
 	return SQUARE(radius) * PI;
 }
+
