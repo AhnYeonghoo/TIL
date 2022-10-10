@@ -168,6 +168,7 @@ def print_ping_statistics(dst_addr, sent_packets, recv_packets, rtts):
     print('round-trip min/avg/max/std-dev = {rtt_min:.3f}/{rtt_avg:.3f}/{rtt_max:.3f}/{rtt_std:.3f} ms'.format(
         rtt_min=min(rtts) * 1000, rtt_avg=rtt_avg * 1000, rtt_max=max(rtts) * 1000,
         rtt_std=statistics.stdev(rtts) * 1000))
+        
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='ping by famous')
