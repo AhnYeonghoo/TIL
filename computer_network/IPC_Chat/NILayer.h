@@ -23,31 +23,31 @@ class CNILayer
 	: public CBaseLayer
 {
 private:
-	// ¾î´ðÅÍ¸¦ ¹Þ¾Æ¿À±â À§ÇÑ º¯¼öµéÀÔ´Ï´Ù.
+	// ï¿½ï¿½ï¿½ï¿½Í¸ï¿½ ï¿½Þ¾Æ¿ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô´Ï´ï¿½.
 	pcap_t* m_AdapterObject;
 	pcap_if_t* m_allDevs;
-	unsigned char m_MacAddress[6];  // ÇöÀç ÄÄÇ»ÅÍÀÇ MAC addressÀÔ´Ï´Ù.
+	unsigned char m_MacAddress[6];  // ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Ç»ï¿½ï¿½ï¿½ï¿½ MAC addressï¿½Ô´Ï´ï¿½.
 	char m_adapterName[1024];
 	int m_iNumAdapter;
 	int m_selectedNum;
 public:
-	void	baseReceive();    // Eternet °èÃþÀ¸·Î µ¥ÀÌÅÍ¸¦ ³Ñ°ÜÁÖ´Â ÇÔ¼öÀÔ´Ï´Ù
-	BOOL	Send(unsigned char* ppayload, int nlength);   // ÆÐÅ¶ µ¥ÀÌÅÍ¸¦ º¸³» ÁÝ´Ï´Ù
+	void	baseReceive();    // Eternet ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Í¸ï¿½ ï¿½Ñ°ï¿½ï¿½Ö´ï¿½ ï¿½Ô¼ï¿½ï¿½Ô´Ï´ï¿½
+	BOOL	Send(unsigned char* ppayload, int nlength);   // ï¿½ï¿½Å¶ ï¿½ï¿½ï¿½ï¿½ï¿½Í¸ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ý´Ï´ï¿½
 	void	SetNICList();
 
-	// ¾î´ðÅÍ set get ÇÔ¼öÀÔ´Ï´Ù.
+	// ï¿½ï¿½ï¿½ï¿½ï¿½ set get ï¿½Ô¼ï¿½ï¿½Ô´Ï´ï¿½.
 	void	setAdapterNum(int index);    
 	int		getAdapterNum();
 	char*	getAdapterName(int index);
 	void	setMacAddress();
-	// MAC ¾îµå·¹½º¸¦ °¡Á®¿À´Â ÇÔ¼öÀÔ´Ï´Ù (¼Û¼ö½ÅÁö)
+	
 	unsigned char*	getMacAddress();
 	unsigned char* getReceiveMacAddress();
 
 	CNILayer(char* pName, pcap_t* pAdapterObject=NULL, int iNumAdapter=0);
 	virtual ~CNILayer();
 
-	// ¼Û¼ö½Å ¾îµå·¹½º¸¦ °¡Á®¿Ã ¼ö ÀÖµµ·Ï º¯¼ö¸¦ ¸¸µì´Ï´Ù
+	// ï¿½Û¼ï¿½ï¿½ï¿½ ï¿½ï¿½å·¹ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½Öµï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ï´ï¿½
 	unsigned char r_dstAdd[6];
 	unsigned char r_srcAdd[6];
 };
