@@ -23,9 +23,9 @@ private:
 	CEthernetLayer* m_Ether;
 
 public:
-	BOOL			Receive(unsigned char* ppayload);     // ÀÌ´õ³Ý °èÃþ¿¡¼­ ¹ÞÀº µ¥ÀÌÅÍ¸¦ ChatDlg·Î º¸³»´Â ÇÔ¼ö
-	BOOL			Send(unsigned char* ppayload, int nlength);     // ChatDlg¿¡¼­ ¹ÞÀº µ¥ÀÌÅÍ¸¦ ÀÌ´õ³Ý °èÃþ·Î º¸³»´Â ÇÔ¼ö
-	// ¼Û ¼ö½ÅÁö ÁÖ¼Ò¿¡ °üÇÑ ÇÔ¼öµéÀÔ´Ï´Ù
+	BOOL			Receive(unsigned char* ppayload);     // ï¿½Ì´ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Í¸ï¿½ ChatDlgï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ô¼ï¿½
+	BOOL			Send(unsigned char* ppayload, int nlength);     // ChatDlgï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Í¸ï¿½ ï¿½Ì´ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ô¼ï¿½
+	// ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ö¼Ò¿ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ô¼ï¿½ï¿½ï¿½ï¿½Ô´Ï´ï¿½
 	unsigned char*  GetDestinAddress();
 	unsigned char*  GetSourceAddress();
 	void			SetDestinAddress(unsigned int dst_addr);
@@ -34,19 +34,18 @@ public:
 	CChatAppLayer(char* pName);
 	virtual ~CChatAppLayer();
 
-	// chatapp headerÀÔ´Ï´Ù.
+	// chatapp headerï¿½Ô´Ï´ï¿½.
 	typedef struct _CHAT_APP_HEADER {
 
 		unsigned short	app_length; // total length of the data
 		unsigned char	app_type; // type of application data
-		unsigned char   app_unused; // »ç¿ëÇÏÁö ¾Ê´Â º¯¼öÀÔ´Ï´Ù.
+		unsigned char   app_unused; // ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ê´ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ô´Ï´ï¿½.
 		unsigned char	app_data[APP_DATA_SIZE]; // application data
 
 	} CHAT_APP_HEADER, * PCHAT_APP_HEADER;
 
 protected:
-	CHAT_APP_HEADER		m_sHeader;    // ½ÇÁúÀûÀ¸·Î CHAT_APP_HEADER¿¡ µ¥ÀÌÅÍ¸¦ ³Ö°í Àü¼ÛÀÌ µË´Ï´Ù.
-
+	CHAT_APP_HEADER		m_sHeader;    // 
 	enum {
 		DATA_TYPE_CONT = 0x01,
 		DATA_TYPE_END = 0x02
