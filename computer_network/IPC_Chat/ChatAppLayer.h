@@ -39,7 +39,7 @@ public:
 
 		unsigned short	app_length; // total length of the data
 		unsigned char	app_type; // type of application data
-		unsigned char   app_unused; // ������� �ʴ� ���
+		unsigned char   app_unused; // ������� �
 		unsigned char	app_data[APP_DATA_SIZE]; // application data
 
 	} CHAT_APP_HEADER, * PCHAT_APP_HEADER;
