@@ -41,3 +41,4 @@ top5_prob, top5_catid = torch.topk(probabillities, 5)
 
 for i in range(top5_prob.size(0)):
     print(f"categories[top5_catid[i]]: {categories[top5_catid[i]]} top5_prob[i].item(): {top5_prob[i].item()}")
+
