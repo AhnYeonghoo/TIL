@@ -7,5 +7,3 @@ console.log(a);
 
 let b;
 console.log(b);
-
-b = 10;
