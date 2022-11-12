@@ -17,7 +17,6 @@ class Human {
 	int health;
 	int damage;
 	int defense;
-	int water;
 	
 	public
 		std::string getName() {
