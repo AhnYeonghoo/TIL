@@ -1,54 +1,103 @@
 #include <iostream>
 #include <string.h>
 
-class Marine {
-    int hp;
+class PhotonCannon {
+    int hp, shield;
     int coord_x, coord_y;
     int damage;
+    char *name;
+
+    public:
+        PhotonCannon(int x, int y, const char *name);
+        PhotonCannon(const PhotonCannon& pc);
+        ~PhotonCannon();
+
+        void showStatus();
+};
+
+PhotonCannon::PhotonCannon(int x, int y, const char *name) {
+    std::cout << "생성자 호출! " << std::endl;
+    hp = shield = 100;
+    coord_x = x;
+    coord_y = y;
+    damage = 20;
+
+    name = new char[strlen(pc.name) + 1];
+    strcpy(name, pc.name);
+}
+
+PhotonCannon::PhotonCannon(const PhotonCannon& pc) {
+    std::cout << "복사 생성자 호출 ! " << std::endl;
+    hp = pc.hp;
+    shield = pc.shield;
+    coord_x = pc.coord_x;
+    coord_y = pc.coord_y;
+    damage = pc.damage;
+    
+    name = new char[strlen(pc.name) + 1];
+    strcpy(name, pc.name);
+}
+
+PhotonCannon::~PhotonCannon() {
+    if (name) delete[] name;
+}
+
+void PhotonCannon::showStatus() {
+    std::cout << "Photon Cannon " << std::endl;
+    std::cout << " Location : ( " << coord_x << " , " << coord_y << " ) " << std::endl;
+    std::cout << " HP : " << hp << std::endl;
+}
+
+class Marine {
+
+    static int total_marine_num;
+
+    int hp;
+    int coord_x, coord_y;
     bool is_dead;
-    char* name;
+
+    const int default_damage;
+
     
     public:
         Marine(); // default Constructor
         Marine(int x, int y); // x, y 좌표에 마린 생성
-        Marine(int x, int y, const char* marine_name);
-        ~Marine();
+        Marine(int x, int y, int default_damage);
+        ~Marine() { total_marine_num--; }
         
         int attack(); // return the damage
         void beAttacked(int damage_earn);
         void move(int x, int y);
         void showStatus();
+        
 };
 
-Marine::Marine() {
-    hp = 50;
-    coord_x = coord_y = 0;
-    damage = 5;
-    is_dead = false;
+int Marine::total_marine_num = 0;
+
+Marine::Marine() : hp(50), coord_x(0), coord_y(0), default_damage(5), is_dead(false) {
+    total_marine_num++;
 }
 
-Marine::Marine(int x, int y) {
-    coord_x = x;
-    coord_y = y;
-    hp = 50;
-    damage = 5;
-    is_dead = false;
+Marine::Marine(int x, int y) 
+    : coord_x(x), coord_y(y), hp(50), default_damage(5), is_dead(false) {
+        total_marine_num++;
+    }
+
+Marine::Marine(int x, int y, int default_damage)
+    : coord_x(x),
+      coord_y(y),
+      hp(50),
+      default_damage(default_damage),
+      is_dead(false) {
+        total_marine_num++;
+      }
+    
+void create_marine() {
+    Marine marine3(10, 10, 4);
+    marine3.showStatus();
 }
 
-Marine::Marine(int x, int y, const char* marine_name) {
-    name = new char[strlen(marine_name) + 1];
-    strcpy(name, marine_name);
-    coord_x = x;
-    coord_y = y;
-    hp = 50;
-    damage = 5;
-    is_dead = false;
-}
 
-Marine::~Marine() {
-    std::cout << name << " 의 소멸자 호출 ! " << std::endl;
-    if (name != NULL) delete[] name;
-}
 
 void Marine::move(int x, int y) {
     coord_x = x;
@@ -89,4 +138,11 @@ int main() {
     marines[1]->showStatus();
     delete marines[0];
     delete marines[1];
+
+    PhotonCannon pc1(3, 3);
+    PhotonCannon pc2(pc1);
+    PhotonCannon pc3 = pc2;
+    pc1.showStatus();
+    pc2.showStatus();
+    
 }
