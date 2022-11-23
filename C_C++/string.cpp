@@ -1,5 +1,7 @@
 #include <iostream>
 #include <string.h>
+
+
 class MyString {
     
     char* stringContent;
@@ -123,7 +125,7 @@ MyString& MyString::insert(int loc, const MyString& str) {
 
     if (stringLength + str.stringLength > memoryCapacity) {
         memoryCapacity = stringLength + str.stringLength;\
-        char* prevStringContent - stringContent;
+        char* prevStringContent = stringContent;
         stringContent = new char[memoryCapacity];
         int i;
         for (i = 0; i < loc; i++) 
