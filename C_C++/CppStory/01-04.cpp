@@ -20,4 +20,6 @@ int main(void)
     std::cout << SQUARE2(7.15) << std::endl;
     std::cout << SQUARE3(5) << std::endl;
     std::cout << SQUARE3(7.154) << std::endl;
+
+    return 0;
 }
