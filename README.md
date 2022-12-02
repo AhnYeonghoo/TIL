@@ -5,6 +5,96 @@
 <br>
 
 
+
+# C/C++
+
+- 씹어먹는 C++ 강의록
+
+  - [레퍼런스(참조자)의 도입](https://github.com/AhnYeonghoo/TIL/blob/main/C_C%2B%2B/%EC%94%B9%EC%96%B4%EB%A8%B9%EB%8A%94Cpp_%EA%B0%95%EC%9D%98%EB%A1%9D/reference.cpp)
+  - [클래스 도입 전 C스타일 구조체](https://github.com/AhnYeonghoo/TIL/blob/main/C_C%2B%2B/%EC%94%B9%EC%96%B4%EB%A8%B9%EB%8A%94Cpp_%EA%B0%95%EC%9D%98%EB%A1%9D/animalcode.cpp)
+  - [클래스 도입](https://github.com/AhnYeonghoo/TIL/blob/main/C_C%2B%2B/%EC%94%B9%EC%96%B4%EB%A8%B9%EB%8A%94Cpp_%EA%B0%95%EC%9D%98%EB%A1%9D/Date.cpp)
+  - [생성자](https://github.com/AhnYeonghoo/TIL/blob/main/C_C%2B%2B/%EC%94%B9%EC%96%B4%EB%A8%B9%EB%8A%94Cpp_%EA%B0%95%EC%9D%98%EB%A1%9D/%EC%83%9D%EC%84%B1%EC%9E%90.cpp)
+  - [생성자오버로딩](https://github.com/AhnYeonghoo/TIL/blob/main/C_C%2B%2B/%EC%94%B9%EC%96%B4%EB%A8%B9%EB%8A%94Cpp_%EA%B0%95%EC%9D%98%EB%A1%9D/%EC%83%9D%EC%84%B1%EC%9E%90%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9.cpp)
+
+<br>
+
+- C++ homework
+
+  - [두 점 사이의 거리 구하기](https://github.com/AhnYeonghoo/TIL/blob/main/C_C%2B%2B/distance.cpp)
+  - [헤론의 공식을 이용한 삼각형 넓이 구하기](https://github.com/AhnYeonghoo/TIL/blob/main/C_C%2B%2B/triangle.cpp)
+  - [homework_week3](https://github.com/AhnYeonghoo/TIL/blob/main/C_C%2B%2B/homework03.cpp)
+  - [homework_week4](https://github.com/AhnYeonghoo/TIL/blob/main/C_C%2B%2B/homework04/homework04_2.cpp)
+  - [homework_week5](https://github.com/AhnYeonghoo/TIL/blob/main/C_C%2B%2B/homework05/homework05.cpp)
+  - [homework_week6](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/homework06)
+  - [homework_week9](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/homework09)
+  - [final_homework](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/final_homework)
+
+<br>
+
+- 씹어먹는 C++ 강의록
+
+  - [Lecture1&2(c언어의 기본문법)](https://github.com/AhnYeonghoo/TIL/blob/main/C_C%2B%2B/cpp_lecture/lecture1/)
+  - [Lecture3(반복문, 조건문)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_lecture/lecture3)
+  - [Lecture4(레퍼런스 문법)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_lecture/lecture4)
+  - [Lecture5(new_delete)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_lecture/lecture5)
+  - [Lecture6(Class)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_lecture/lecture6)
+  - [Lecture7(Overloading & Contructor)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_lecture/lecture7)
+  - [Lecture8(Start! OOP & Destructor)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_lecture/lecture8)
+  - [Lecture9(const, static variable, this)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_lecture/lecture9)
+  - [Lecture10(String Class))](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_lecture/lecture10)
+
+<br>
+
+- C++ 기초플러스
+  - [Chapter04(CharArray, delete, struct)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_premier/chapter04)
+  - [Chapter07(function, pointer_function, array)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_premier/chapter07)
+
+<br>
+
+- C/C++프로그래밍 실습 소스코드
+
+  - [week2(C++ outline)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_lecture/c_cpp_programming/week2)
+  - [week3(String, File In/Out)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_lecture/c_cpp_programming/week3)
+  - [week4(Array, Variable, Constant, Memory allocation, etc..)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_lecture/c_cpp_programming/week4)
+  - [week5(Basic Class)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_lecture/c_cpp_programming/week5)
+  - [week8(Review after Mid term)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_lecture/c_cpp_programming/week8)
+  - [week9(Inheritance, Friend)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_lecture/c_cpp_programming/week9)
+  - [week10(Polymorphism, Operator Overloading)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_lecture/c_cpp_programming/week10)
+  - [week11(Template)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_lecture/c_cpp_programming/week11)
+  - [week12(STL)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_lecture/c_cpp_programming/week12)
+  - [final_week(auto, template, class, poly etc..)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_lecture/c_cpp_programming/final_week)
+
+<br>
+<br>
+<hr />
+
+
+# Python
+
+- Grammar
+
+  - 자료형
+
+    - [숫자형](https://github.com/AhnYeonghoo/TIL/blob/main/Python/basic_grammar/2-1number.py)
+    - [문자열](https://github.com/AhnYeonghoo/TIL/blob/main/Python/basic_grammar/2-2string.py)
+    - [불리언](https://github.com/AhnYeonghoo/TIL/blob/main/Python/basic_grammar/2-3boolean.py)
+    - [변수](https://github.com/AhnYeonghoo/TIL/blob/main/Python/basic_grammar/2-4variable.py)
+    - [주석](https://github.com/AhnYeonghoo/TIL/blob/main/Python/basic_grammar/2-5comment.py)
+
+- Numpy
+
+  - [기본적인 사용법](https://github.com/AhnYeonghoo/TIL/blob/main/Python/numpy/basic.ipynb)
+
+- Pandas
+
+- OpenCV
+
+- Pytorch
+
+<br>
+<br>
+<hr />
+
 # Kotlin
 
 - Syntax
@@ -87,83 +177,8 @@
 <br>
 <hr />
 
-# C/C++
 
-- C++ homework
 
-  - [두 점 사이의 거리 구하기](https://github.com/AhnYeonghoo/TIL/blob/main/C_C%2B%2B/distance.cpp)
-  - [헤론의 공식을 이용한 삼각형 넓이 구하기](https://github.com/AhnYeonghoo/TIL/blob/main/C_C%2B%2B/triangle.cpp)
-  - [homework_week3](https://github.com/AhnYeonghoo/TIL/blob/main/C_C%2B%2B/homework03.cpp)
-  - [homework_week4](https://github.com/AhnYeonghoo/TIL/blob/main/C_C%2B%2B/homework04/homework04_2.cpp)
-  - [homework_week5](https://github.com/AhnYeonghoo/TIL/blob/main/C_C%2B%2B/homework05/homework05.cpp)
-  - [homework_week6](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/homework06)
-  - [homework_week9](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/homework09)
-  - [final_homework](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/final_homework)
-
-<br>
-
-- 씹어먹는 C++ 강의록
-
-  - [Lecture1&2(c언어의 기본문법)](https://github.com/AhnYeonghoo/TIL/blob/main/C_C%2B%2B/cpp_lecture/lecture1/)
-  - [Lecture3(반복문, 조건문)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_lecture/lecture3)
-  - [Lecture4(레퍼런스 문법)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_lecture/lecture4)
-  - [Lecture5(new_delete)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_lecture/lecture5)
-  - [Lecture6(Class)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_lecture/lecture6)
-  - [Lecture7(Overloading & Contructor)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_lecture/lecture7)
-  - [Lecture8(Start! OOP & Destructor)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_lecture/lecture8)
-  - [Lecture9(const, static variable, this)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_lecture/lecture9)
-  - [Lecture10(String Class))](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_lecture/lecture10)
-
-<br>
-
-- C++ 기초플러스
-  - [Chapter04(CharArray, delete, struct)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_premier/chapter04)
-  - [Chapter07(function, pointer_function, array)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_premier/chapter07)
-
-<br>
-
-- C/C++프로그래밍 실습 소스코드
-
-  - [week2(C++ outline)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_lecture/c_cpp_programming/week2)
-  - [week3(String, File In/Out)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_lecture/c_cpp_programming/week3)
-  - [week4(Array, Variable, Constant, Memory allocation, etc..)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_lecture/c_cpp_programming/week4)
-  - [week5(Basic Class)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_lecture/c_cpp_programming/week5)
-  - [week8(Review after Mid term)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_lecture/c_cpp_programming/week8)
-  - [week9(Inheritance, Friend)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_lecture/c_cpp_programming/week9)
-  - [week10(Polymorphism, Operator Overloading)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_lecture/c_cpp_programming/week10)
-  - [week11(Template)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_lecture/c_cpp_programming/week11)
-  - [week12(STL)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_lecture/c_cpp_programming/week12)
-  - [final_week(auto, template, class, poly etc..)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_lecture/c_cpp_programming/final_week)
-
-<br>
-<br>
-<hr />
-
-# Python
-
-- Grammar
-
-  - 자료형
-
-    - [숫자형](https://github.com/AhnYeonghoo/TIL/blob/main/Python/basic_grammar/2-1number.py)
-    - [문자열](https://github.com/AhnYeonghoo/TIL/blob/main/Python/basic_grammar/2-2string.py)
-    - [불리언](https://github.com/AhnYeonghoo/TIL/blob/main/Python/basic_grammar/2-3boolean.py)
-    - [변수](https://github.com/AhnYeonghoo/TIL/blob/main/Python/basic_grammar/2-4variable.py)
-    - [주석](https://github.com/AhnYeonghoo/TIL/blob/main/Python/basic_grammar/2-5comment.py)
-
-- Numpy
-
-  - [기본적인 사용법](https://github.com/AhnYeonghoo/TIL/blob/main/Python/numpy/basic.ipynb)
-
-- Pandas
-
-- OpenCV
-
-- Pytorch
-
-<br>
-<br>
-<hr />
 
 # Javascript
 
