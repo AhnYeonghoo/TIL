@@ -8,6 +8,7 @@ class MyString {
         int memory_capacity;
 
     public:
+        explicit MyString(int capacity);
         MyString(char c);
         MyString(const char* str);
         MyString(const MyString& str);
@@ -36,6 +37,12 @@ class MyString {
         
         int compare(const MyString& str) const;
 };
+
+MyString::MyString(int capacity) {
+    string_content = new char[capacity];
+    string_length = 0;
+    memory_capacity = capacity;
+}
 
 MyString::MyString(char c) {
     string_content = new char[1];
@@ -213,6 +220,19 @@ int MyString::find(int find_from, const char* str) const {
 int MyString::find(int find_from, char c) const {
     MyString temp(c);
     return find(find_from, temp);
+}
+
+int MyString::compare(const MyString& str) const {
+    for (int i = 0; i < std::min(string_length, str.string_length); i++) {
+        if (string_content[i] > str.string_content[i]) {
+            return 1;
+        } else if (string_content[i] < str.string_content[i]) {
+            return -1;
+        }
+        if (string_length == str.string_length) return 0;
+        else if (string_length > str.string_length) return 1;
+    return -1;
+    }
 }
 
 int main() {
