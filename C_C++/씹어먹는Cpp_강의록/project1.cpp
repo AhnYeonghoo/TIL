@@ -36,6 +36,10 @@ class MyString {
         int find(int find_from, char c) const;
         
         int compare(const MyString& str) const;
+
+        bool operator==(MyString& str) {
+            return !compare(str);
+        }
 };
 
 MyString::MyString(int capacity) {
@@ -237,6 +241,19 @@ int MyString::compare(const MyString& str) const {
 
 int main() {
     MyString str1("this is a very very long string");
+    MyString str2("sentense");
+    MyString str3("sentense");
     std::cout <<  str1.find(0, "very") << std::endl;
     std::cout << str1.find(str1.find(0, "very") + 1, "very") << std::endl;
+    
+    if (str1 == str2) {
+        std::cout << "str1 == str2" << std::endl;
+    } else {
+        std::cout << "str1 != str2" << std::endl;
+    }
+    if (str2 == str3) {
+        std::cout << "str2 == str3" << std::endl;
+    } else {
+        std::cout << "never" << std::endl;
+    }
 }
