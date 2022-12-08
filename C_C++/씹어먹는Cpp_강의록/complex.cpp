@@ -21,12 +21,19 @@ class Complex {
         Complex& operator*=(const Complex& c);
         Complex& operator/=(const Complex& c);
 
+        friend std::ostream& operator<<(std::ostream& os, const Complex& c);
+
         void println() { 
             std::cout << "( " << real << " , " << img << " ) " << std::endl;
         }
 
         double GetNumber(const char* str, int from, int to);
 };
+
+std::ostream& operator<<(std::ostream& os, const Complex& c) {
+    os << "( " << c.real << " , " << c.img << " ) " ;
+    return os;
+}
 
 Complex Complex::operator+(const Complex& c) {
     Complex temp(real + c.real, img + c.img);

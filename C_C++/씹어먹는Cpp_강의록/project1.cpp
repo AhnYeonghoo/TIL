@@ -40,7 +40,11 @@ class MyString {
         bool operator==(MyString& str) {
             return !compare(str);
         }
+
+        char& operator[](const int index);
 };
+
+char& MyString::operator[](const int index) { return string_content[index]; } 
 
 MyString::MyString(int capacity) {
     string_content = new char[capacity];
