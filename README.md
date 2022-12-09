@@ -27,6 +27,8 @@
   - [나만의 StringClass](https://github.com/AhnYeonghoo/TIL/blob/main/C_C%2B%2B/%EC%94%B9%EC%96%B4%EB%A8%B9%EB%8A%94Cpp_%EA%B0%95%EC%9D%98%EB%A1%9D/project1.cpp)
   - [Mutable KeyWord](https://github.com/AhnYeonghoo/TIL/blob/main/C_C%2B%2B/%EC%94%B9%EC%96%B4%EB%A8%B9%EB%8A%94Cpp_%EA%B0%95%EC%9D%98%EB%A1%9D/mutable.cpp)
   - [Complex Class Impl](https://github.com/AhnYeonghoo/TIL/blob/main/C_C%2B%2B/%EC%94%B9%EC%96%B4%EB%A8%B9%EB%8A%94Cpp_%EA%B0%95%EC%9D%98%EB%A1%9D/complex.cpp)
+  - [상속1](https://github.com/AhnYeonghoo/TIL/blob/main/C_C%2B%2B/%EC%94%B9%EC%96%B4%EB%A8%B9%EB%8A%94Cpp_%EA%B0%95%EC%9D%98%EB%A1%9D/%EC%83%81%EC%86%8D.cpp)
+  - [상속2](https://github.com/AhnYeonghoo/TIL/blob/main/C_C%2B%2B/%EC%94%B9%EC%96%B4%EB%A8%B9%EB%8A%94Cpp_%EA%B0%95%EC%9D%98%EB%A1%9D/%EC%83%81%EC%86%8D2.cpp)
 
 <br>
 
@@ -54,6 +56,7 @@
   - [Lecture8(Start! OOP & Destructor)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_lecture/lecture8)
   - [Lecture9(const, static variable, this)](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_lecture/lecture9)
   - [Lecture10(String Class))](https://github.com/AhnYeonghoo/TIL/tree/main/C_C%2B%2B/cpp_lecture/lecture10)
+  
 
 <br>
 
