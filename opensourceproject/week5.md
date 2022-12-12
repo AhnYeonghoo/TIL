@@ -49,7 +49,6 @@
 
 
 
-
 ## MR(merge_request) 또는 PR(pull_request) 이용하기
 
 - 1. remote repository로부터 기존 작업 소스코드가 존재할시엔 git pull, 새로 받는거면 git clone으로 최신버전 가져오기
