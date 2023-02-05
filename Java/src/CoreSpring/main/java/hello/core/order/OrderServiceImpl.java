@@ -9,19 +9,23 @@ import hello.core.member.MemoryMemberRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
+
 @Component
 public class OrderServiceImpl implements OrderService {
 
-    private final MemberRepository memberRepository;
-    private final DIscountPolicy dIscountPolicy;
+    private MemberRepository memberRepository;
+    private DIscountPolicy dIscountPolicy;
+
+    @Autowired private DIscountPolicy rateDiscountPolicy;
 
     public MemberRepository getMemberRepository() {
         return memberRepository;
     }
+
     @Autowired
-    public OrderServiceImpl(MemberRepository memberRepository, DIscountPolicy dIscountPolicy) {
+    public OrderServiceImpl(MemberRepository memberRepository, DIscountPolicy rateDiscountPolicy) {
         this.memberRepository = memberRepository;
-        this.dIscountPolicy = dIscountPolicy;
+        this.dIscountPolicy = rateDiscountPolicy;
     }
 
     @Override
@@ -32,4 +36,15 @@ public class OrderServiceImpl implements OrderService {
 
         return new Order(memberId, itemName, itemPrice, discountPrice);
     }
+
+    @Autowired
+    public void setMemberRepository(MemberRepository memberRepository) {
+        this.memberRepository = memberRepository;
+    }
+
+    @Autowired
+    public void setDiscountPolicy(DIscountPolicy dIscountPolicy) {
+        this.dIscountPolicy = dIscountPolicy;
+    }
+
 }
