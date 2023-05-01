@@ -1,17 +1,18 @@
-#include <stdio.h>
-#include <string.h>
+#include <iostream>
+#include <algorithm>
 
-struct Student 
-{
-    char name[20];      // 이름
-    int student_number; // 학번
-    char gender[20];       // 성별
-};
+int main() {
+    int n;
+    std::cin >> n;
 
-int main()
-{
-    struct Student *student;
+    int nums[500000];
+    for (int i = 0; i < n; i++) {
+        std::cin >> nums[i];
+    }
 
-    scanf("%s, %d, %s", student->name, &student->student_number, student->gender);
-    printf("%s, %d, %s", student[0].name, student[0].student_number, student[0].gender);
+    int max_num = *std::max_element(nums, nums + n);
+
+    std::cout  << max_num  << std::endl;
+
+    return 0;
 }
